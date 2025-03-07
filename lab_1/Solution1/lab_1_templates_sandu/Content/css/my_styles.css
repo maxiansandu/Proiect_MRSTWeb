@@ -1,0 +1,74 @@
+﻿
+body {
+    background-image: url("https://wallup.net/wp-content/uploads/2017/03/28/453158-Audi_S5-Audi-car-blue_cars-vehicle-rain.jpg");
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    width: 1200px; /* Lățimea div-ului */
+    height: 800px; /* Înălțimea div-ului */
+   /* background-image: ,url("https://wallup.net/wp-content/uploads/2017/03/28/453158-Audi_S5-Audi-car-blue_cars-vehicle-rain.jpg"); /* Setează imaginea de fundal */
+    background-size: cover; /* Acoperă tot div-ul */
+    background-position: center; /* Centrează imaginea */
+    background-repeat: no-repeat;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+#header {
+    position: center;
+    color: forestgreen;
+}
+
+.person_info {
+    color: red;
+    font-size: 25px;
+}
+
+.nav-item {
+    color: red;
+}
+
+
+.navbar-toggler {
+    color: green;
+}
+
+
+.display-4 {
+    color: white;
+}
+
+
+#buton_menu{
+
+    background:none;
+    border:none;
+}
+
+
+#sidebar{
+
+
+    background-color:black;
+    
+    
+}
+
+#close_btn {
+    filter: invert(1);
+}
+
+#home_main_text{
+
+    margin-right:870px;
+    color:white
+}
+
+
