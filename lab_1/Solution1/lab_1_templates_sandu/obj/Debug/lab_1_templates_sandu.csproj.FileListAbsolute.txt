@@ -83,3 +83,7 @@ C:\Users\vboxuser\Documents\Tweb_labs\lab_1\Solution1\lab_1_templates_sandu\bin\
 C:\Users\vboxuser\Documents\Tweb_labs\lab_1\Solution1\lab_1_templates_sandu\bin\WebGrease.dll
 C:\Users\vboxuser\Documents\Tweb_labs\lab_1\Solution1\lab_1_templates_sandu\bin\Antlr3.Runtime.pdb
 C:\Users\vboxuser\Documents\Tweb_labs\lab_1\Solution1\lab_1_templates_sandu\bin\System.Web.Optimization.xml
+C:\Users\vboxuser\Documents\Tweb_labs\lab_1\Solution1\lab_1_templates_sandu\bin\eUseControl.BussinesLogic.dll
+C:\Users\vboxuser\Documents\Tweb_labs\lab_1\Solution1\lab_1_templates_sandu\bin\eUseControl.Domain.dll
+C:\Users\vboxuser\Documents\Tweb_labs\lab_1\Solution1\lab_1_templates_sandu\bin\eUseControl.BussinesLogic.pdb
+C:\Users\vboxuser\Documents\Tweb_labs\lab_1\Solution1\lab_1_templates_sandu\bin\eUseControl.Domain.pdb
