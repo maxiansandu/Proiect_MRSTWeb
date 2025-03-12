@@ -1,4 +1,5 @@
 ﻿using eUseControl.BussinesLogic.Core;
+using eUseControl.BussinesLogic.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,16 +12,10 @@ namespace eUseControl.BussinesLogic
 
     public class BussinesLogic
     {
-        private readonly UserAPI _userApi;
-
-        public BussinesLogic()
+      public ISession GetSessionBl()
         {
-            _userApi = new UserAPI();
+            return new SessionBL();
         }
 
-        public bool AutjenticateUser(string username, string password)
-        {
-            return _userApi.Login(username, password);
-        }
     }
 }

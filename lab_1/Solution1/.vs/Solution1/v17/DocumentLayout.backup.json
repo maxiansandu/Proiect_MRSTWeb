@@ -3,47 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\lab_1_templates_sandu\\views\\logpage\\userlogpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\views\\logpage\\userlogpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\controllers\\logpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\controllers\\logpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eusecontrol.bussineslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eusecontrol.bussineslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CD5199-5630-4BDD-9533-525544F0134E}|eUseControl.Domain\\eUseControl.Domain.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eusecontrol.domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CD5199-5630-4BDD-9533-525544F0134E}|eUseControl.Domain\\eUseControl.Domain.csproj|solutionrelative:eusecontrol.domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\lab_1_templates_sandu\\controllers\\logpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\controllers\\logpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\app_start\\bundleconfig.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\app_start\\bundleconfig.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\lab_1_templates_sandu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\views\\logpage\\userlogpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\views\\logpage\\userlogpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0CD5199-5630-4BDD-9533-525544F0134E}|eUseControl.Domain\\eUseControl.Domain.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\eusecontrol.domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0CD5199-5630-4BDD-9533-525544F0134E}|eUseControl.Domain\\eUseControl.Domain.csproj|solutionrelative:eusecontrol.domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\eusecontrol.bussineslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\eusecontrol.bussineslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eusecontrol.bussineslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\eusecontrol.bussineslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\eusecontrol.bussineslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eusecontrol.bussineslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\eusecontrol.bussineslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eusecontrol.bussineslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -52,10 +56,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|lab_1_templates_sandu||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\lab_1_templates_sandu\\app_start\\bundleconfig.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\app_start\\bundleconfig.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -200,9 +200,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\scripts\\js\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\scripts\\js\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\lab_1_templates_sandu\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -212,7 +209,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -220,20 +217,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BussinesLogic.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\BussinesLogic.cs",
+              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\BussinesLogic.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\BussinesLogic.cs",
+              "RelativeToolTip": "eUseControl.BussinesLogic\\BussinesLogic.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:51:46.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionBL.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\SessionBL.cs",
+              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\SessionBL.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\SessionBL.cs",
+              "RelativeToolTip": "eUseControl.BussinesLogic\\SessionBL.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:52:09.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ULoginData.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.Domain\\Entities\\User\\ULoginData.cs",
+              "RelativeDocumentMoniker": "eUseControl.Domain\\Entities\\User\\ULoginData.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.Domain\\Entities\\User\\ULoginData.cs",
+              "RelativeToolTip": "eUseControl.Domain\\Entities\\User\\ULoginData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:25:19.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "LogPageController.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Controllers\\LogPageController.cs",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\LogPageController.cs",
               "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Controllers\\LogPageController.cs",
               "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\LogPageController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T18:42:06.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T11:32:23.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:04:37.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T11:34:54.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserLogPage.cshtml",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
@@ -241,38 +316,11 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T18:41:36.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T18:41:36.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACAAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T11:32:23.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T11:34:54.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\HomeController.cs",
@@ -280,51 +328,11 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T08:17:09.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T08:17:09.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ULoginData.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.Domain\\Entities\\User\\ULoginData.cs",
-              "RelativeDocumentMoniker": "eUseControl.Domain\\Entities\\User\\ULoginData.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.Domain\\Entities\\User\\ULoginData.cs",
-              "RelativeToolTip": "eUseControl.Domain\\Entities\\User\\ULoginData.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:25:19.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SessionBL.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\SessionBL.cs",
-              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\SessionBL.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\SessionBL.cs",
-              "RelativeToolTip": "eUseControl.BussinesLogic\\SessionBL.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIAwwAkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:52:09.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BussinesLogic.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\BussinesLogic.cs",
-              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\BussinesLogic.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\BussinesLogic.cs",
-              "RelativeToolTip": "eUseControl.BussinesLogic\\BussinesLogic.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:51:46.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ISession.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
@@ -332,12 +340,11 @@
               "RelativeToolTip": "eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:50:51.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:50:51.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UserApi.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Core\\UserApi.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Core\\UserApi.cs",
@@ -345,12 +352,11 @@
               "RelativeToolTip": "eUseControl.BussinesLogic\\Core\\UserApi.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAhwA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:49:59.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:49:59.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AdminAPi.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
@@ -358,33 +364,18 @@
               "RelativeToolTip": "eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:46:09.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:46:09.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "lab_1_templates_sandu",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\lab_1_templates_sandu.csproj",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\lab_1_templates_sandu.csproj",
               "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\lab_1_templates_sandu.csproj",
               "RelativeToolTip": "lab_1_templates_sandu\\lab_1_templates_sandu.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-12T15:38:01.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T12:04:37.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T15:38:01.239Z"
             },
             {
               "$type": "Document",
@@ -396,12 +387,11 @@
               "RelativeToolTip": "lab_1_templates_sandu\\App_Start\\WebApiConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T05:55:33.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T05:55:33.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\App_Start\\RouteConfig.cs",
@@ -409,8 +399,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAgwAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T05:55:08.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T05:55:08.954Z"
             },
             {
               "$type": "Document",
@@ -422,8 +411,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\css\\my_styles.css",
               "ViewState": "AgIAABQAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-06T17:40:10.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T17:40:10.65Z"
             },
             {
               "$type": "Document",
@@ -435,8 +423,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\css\\style.css",
               "ViewState": "AgIAAK0KAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:10:02.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:10:02.7Z"
             },
             {
               "$type": "Document",
@@ -448,8 +435,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T15:30:11.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T15:30:11.459Z"
             },
             {
               "$type": "Bookmark",
@@ -465,8 +451,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\images\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-06T17:58:07.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T17:58:07.396Z"
             },
             {
               "$type": "Document",
@@ -477,8 +462,7 @@
               "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-144-precomposed.png - PNG [144x144, 32 bit, PNG]",
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\images\\apple-touch-icon-144-precomposed.png - PNG [144x144, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-24T01:28:30.819Z",
-              "EditorCaption": " - PNG [144x144, 32 bit, PNG]"
+              "WhenOpened": "2025-02-24T01:28:30.819Z"
             },
             {
               "$type": "Document",
@@ -489,8 +473,7 @@
               "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-114-precomposed.png - PNG [114x114, 32 bit, PNG]",
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\images\\apple-touch-icon-114-precomposed.png - PNG [114x114, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-06T17:58:01.27Z",
-              "EditorCaption": " - PNG [114x114, 32 bit, PNG]"
+              "WhenOpened": "2025-03-06T17:58:01.27Z"
             },
             {
               "$type": "Document",
@@ -502,8 +485,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\Site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:06:03.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:06:03.71Z"
             },
             {
               "$type": "Document",
@@ -515,8 +497,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Global.asax.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T12:07:56.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T12:07:56.292Z"
             },
             {
               "$type": "Document",
@@ -528,8 +509,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-24T01:28:11.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T01:28:11.474Z"
             },
             {
               "$type": "Document",
@@ -541,8 +521,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T20:13:49.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T20:13:49.602Z"
             },
             {
               "$type": "Document",
@@ -554,8 +533,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\animate.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-21T11:31:47.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T11:31:47.525Z"
             },
             {
               "$type": "Document",
@@ -567,8 +545,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.css",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-24T01:27:36.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T01:27:36.094Z"
             },
             {
               "$type": "Document",
@@ -580,8 +557,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T08:38:21.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T08:38:21.877Z"
             },
             {
               "$type": "Document",
@@ -593,8 +569,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.css",
               "ViewState": "AgIAANsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:26:45.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:26:45.257Z"
             },
             {
               "$type": "Document",
@@ -606,8 +581,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T01:27:48.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T01:27:48.224Z"
             },
             {
               "$type": "Document",
@@ -619,8 +593,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-utilities.rtl.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T19:38:36.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:38:36.525Z"
             },
             {
               "$type": "Document",
@@ -632,8 +605,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-utilities.min.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T19:38:35.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:38:35.153Z"
             },
             {
               "$type": "Document",
@@ -645,8 +617,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T19:38:33.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:38:33.304Z"
             },
             {
               "$type": "Document",
@@ -658,8 +629,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:30:18.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:30:18.712Z"
             },
             {
               "$type": "Document",
@@ -671,8 +641,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T19:30:16.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:30:16.165Z"
             },
             {
               "$type": "Document",
@@ -684,8 +653,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T19:30:13.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:30:13.509Z"
             },
             {
               "$type": "Document",
@@ -697,8 +665,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:30:07.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:30:07.54Z"
             },
             {
               "$type": "Document",
@@ -710,8 +677,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:26:54.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:26:54.195Z"
             },
             {
               "$type": "Document",
@@ -723,8 +689,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T19:26:41.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:26:41.46Z"
             },
             {
               "$type": "Document",
@@ -736,8 +701,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.css",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:26:38.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:26:38.804Z"
             },
             {
               "$type": "Document",
@@ -749,8 +713,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:26:31.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:26:31.257Z"
             },
             {
               "$type": "Document",
@@ -762,8 +725,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T01:28:39.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T01:28:39.225Z"
             },
             {
               "$type": "Document",
@@ -775,8 +737,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T11:32:01.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T11:32:01.604Z"
             },
             {
               "$type": "Document",
@@ -787,8 +748,7 @@
               "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\login-logo.png - PNG [345x92, 32 bit, PNG]",
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\images\\login-logo.png - PNG [345x92, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-24T01:28:35.163Z",
-              "EditorCaption": " - PNG [345x92, 32 bit, PNG]"
+              "WhenOpened": "2025-02-24T01:28:35.163Z"
             },
             {
               "$type": "Document",
@@ -799,8 +759,7 @@
               "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-72-precomposed.png - PNG [72x72, 32 bit, PNG]",
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\images\\apple-touch-icon-72-precomposed.png - PNG [72x72, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-24T01:28:33.553Z",
-              "EditorCaption": " - PNG [72x72, 32 bit, PNG]"
+              "WhenOpened": "2025-02-24T01:28:33.553Z"
             },
             {
               "$type": "Document",
@@ -812,8 +771,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T01:28:26.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T01:28:26.99Z"
             },
             {
               "$type": "Document",
@@ -825,8 +783,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T01:28:05.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T01:28:05.038Z"
             },
             {
               "$type": "Document",
@@ -838,8 +795,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-24T01:27:58.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T01:27:58.162Z"
             },
             {
               "$type": "Document",
@@ -851,8 +807,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.min.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T01:27:52.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T01:27:52.897Z"
             },
             {
               "$type": "Document",
@@ -864,8 +819,7 @@
               "RelativeToolTip": "lab_1_templates_sandu\\Scripts\\js\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-21T12:50:58.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T12:50:58.188Z"
             }
           ]
         }

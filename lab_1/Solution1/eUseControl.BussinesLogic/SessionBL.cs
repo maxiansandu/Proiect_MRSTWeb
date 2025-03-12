@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace eUseControl.BussinesLogic
 {  
-   public class SessionBL : UserAPI
+   public class SessionBL : UserAPI, ISession
     {
         public void StartSession(string userId)
         {
