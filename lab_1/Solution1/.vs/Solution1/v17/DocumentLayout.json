@@ -1,208 +1,209 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\lab_1_templates_sandu\\controllers\\logpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\controllers\\logpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\lab_1_templates_sandu\\views\\logpage\\userlogpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\views\\logpage\\userlogpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0CD5199-5630-4BDD-9533-525544F0134E}|eUseControl.Domain\\eUseControl.Domain.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\eusecontrol.domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0CD5199-5630-4BDD-9533-525544F0134E}|eUseControl.Domain\\eUseControl.Domain.csproj|solutionrelative:eusecontrol.domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\eusecontrol.bussineslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eusecontrol.bussineslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\eusecontrol.bussineslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\controllers\\logpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\controllers\\logpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\eusecontrol.bussineslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0CD5199-5630-4BDD-9533-525544F0134E}|eUseControl.Domain\\eUseControl.Domain.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eusecontrol.domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CD5199-5630-4BDD-9533-525544F0134E}|eUseControl.Domain\\eUseControl.Domain.csproj|solutionrelative:eusecontrol.domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eusecontrol.bussineslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\eusecontrol.bussineslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\user\\desktop\\proiecttweb\\proiect_mrstweb\\lab_1\\solution1\\eusecontrol.bussineslogic\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|c:\\users\\user\\desktop\\proiecttweb\\proiect_mrstweb\\lab_1\\solution1\\lab_1_templates_sandu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\views\\logpage\\userlogpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\views\\logpage\\userlogpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eusecontrol.bussineslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eusecontrol.bussineslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\eusecontrol.bussineslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eusecontrol.bussineslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|lab_1_templates_sandu||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\lab_1_templates_sandu\\app_start\\bundleconfig.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\app_start\\bundleconfig.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\app_start\\bundleconfig.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\css\\my_styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\css\\my_styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\css\\my_styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\images\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\images\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\images\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\images\\apple-touch-icon-144-precomposed.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\images\\apple-touch-icon-144-precomposed.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\images\\apple-touch-icon-144-precomposed.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\images\\apple-touch-icon-114-precomposed.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\images\\apple-touch-icon-114-precomposed.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\images\\apple-touch-icon-114-precomposed.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\animate.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\animate.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\animate.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-utilities.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-utilities.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-utilities.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-utilities.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-utilities.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-utilities.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-reboot.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-reboot.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-grid.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-reboot.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\images\\login-logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\images\\login-logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\images\\login-logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\images\\apple-touch-icon-72-precomposed.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\images\\apple-touch-icon-72-precomposed.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\images\\apple-touch-icon-72-precomposed.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-grid.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-grid.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-reboot.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\content\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\content\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\scripts\\js\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\scripts\\js\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|solutionrelative:lab_1_templates_sandu\\scripts\\js\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\lab_1_templates_sandu.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\lab_1\\solution1\\lab_1_templates_sandu\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -212,84 +213,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LogPageController.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Controllers\\LogPageController.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\LogPageController.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Controllers\\LogPageController.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\LogPageController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SessionBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.BussinesLogic\\SessionBL.cs",
+              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\SessionBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.BussinesLogic\\SessionBL.cs",
+              "RelativeToolTip": "eUseControl.BussinesLogic\\SessionBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:42:06.973Z",
+              "WhenOpened": "2025-03-12T16:52:09.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserLogPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
-              "RelativeToolTip": "lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T18:41:36.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACAAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T11:32:23.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T11:34:54.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T08:17:09.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ULoginData.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.Domain\\Entities\\User\\ULoginData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.Domain\\Entities\\User\\ULoginData.cs",
               "RelativeDocumentMoniker": "eUseControl.Domain\\Entities\\User\\ULoginData.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.Domain\\Entities\\User\\ULoginData.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.Domain\\Entities\\User\\ULoginData.cs",
               "RelativeToolTip": "eUseControl.Domain\\Entities\\User\\ULoginData.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -298,574 +243,590 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SessionBL.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\SessionBL.cs",
-              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\SessionBL.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\SessionBL.cs",
-              "RelativeToolTip": "eUseControl.BussinesLogic\\SessionBL.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIAwwAkAAAADAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LogPageController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Controllers\\LogPageController.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\LogPageController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Controllers\\LogPageController.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\LogPageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:52:09.714Z",
+              "WhenOpened": "2025-03-12T18:42:06.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "BussinesLogic.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\BussinesLogic.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.BussinesLogic\\BussinesLogic.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\BussinesLogic.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\BussinesLogic.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.BussinesLogic\\BussinesLogic.cs",
               "RelativeToolTip": "eUseControl.BussinesLogic\\BussinesLogic.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T16:51:46.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ISession.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
-              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
-              "RelativeToolTip": "eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "eUseControl.BussinesLogic\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:50:51.491Z",
+              "WhenOpened": "2025-03-13T10:57:51.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T11:34:54.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UserApi.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Core\\UserApi.cs",
-              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Core\\UserApi.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Core\\UserApi.cs",
-              "RelativeToolTip": "eUseControl.BussinesLogic\\Core\\UserApi.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAhwA4AAAA9AAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACAAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T11:32:23.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserLogPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
+              "RelativeToolTip": "lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T18:41:36.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:49:59.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T08:17:09.345Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "AdminAPi.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
-              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
-              "RelativeToolTip": "eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ISession.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
+              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
+              "RelativeToolTip": "eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:46:09.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:50:51.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "lab_1_templates_sandu",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\lab_1_templates_sandu.csproj",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\lab_1_templates_sandu.csproj",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\lab_1_templates_sandu.csproj",
-              "RelativeToolTip": "lab_1_templates_sandu\\lab_1_templates_sandu.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-12T15:38:01.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Core\\UserApi.cs",
+              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Core\\UserApi.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Core\\UserApi.cs",
+              "RelativeToolTip": "eUseControl.BussinesLogic\\Core\\UserApi.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T12:04:37.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\WebApiConfig.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\App_Start\\WebApiConfig.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\WebApiConfig.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T05:55:33.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:49:59.824Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAkAAAAcAAAAAAAAAA==",
+              "Title": "AdminAPi.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
+              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
+              "RelativeToolTip": "eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T05:55:08.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:46:09.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "lab_1_templates_sandu",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\lab_1_templates_sandu.csproj",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\lab_1_templates_sandu.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\lab_1_templates_sandu.csproj",
+              "RelativeToolTip": "lab_1_templates_sandu\\lab_1_templates_sandu.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T15:38:01.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:04:37.464Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "my_styles.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\css\\my_styles.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\css\\my_styles.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\css\\my_styles.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\css\\my_styles.css",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-06T17:40:10.65Z",
-              "EditorCaption": ""
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T05:55:33.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T05:55:08.954Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\css\\style.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\css\\style.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\css\\style.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\css\\style.css",
-              "ViewState": "AgIAAK0KAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "my_styles.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\css\\my_styles.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\css\\my_styles.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\css\\my_styles.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\css\\my_styles.css",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:10:02.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T17:40:10.65Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Models\\Person.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T15:30:11.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\css\\style.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\css\\style.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\css\\style.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\css\\style.css",
+              "ViewState": "AgIAAK0KAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-26T19:10:02.7Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\index.html",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\images\\index.html",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\index.html",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\images\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-06T17:58:07.396Z",
-              "EditorCaption": ""
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Models\\Person.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:30:11.459Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "apple-touch-icon-144-precomposed.png - PNG [144x144, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-144-precomposed.png",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\images\\apple-touch-icon-144-precomposed.png",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-144-precomposed.png - PNG [144x144, 32 bit, PNG]",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\images\\apple-touch-icon-144-precomposed.png - PNG [144x144, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-24T01:28:30.819Z",
-              "EditorCaption": " - PNG [144x144, 32 bit, PNG]"
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\index.html",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\images\\index.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\index.html",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\images\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-06T17:58:07.396Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "apple-touch-icon-114-precomposed.png - PNG [114x114, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-114-precomposed.png",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\images\\apple-touch-icon-114-precomposed.png",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-114-precomposed.png - PNG [114x114, 32 bit, PNG]",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\images\\apple-touch-icon-114-precomposed.png - PNG [114x114, 32 bit, PNG]",
+              "Title": "apple-touch-icon-144-precomposed.png - PNG [144x144, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-144-precomposed.png",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\images\\apple-touch-icon-144-precomposed.png",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-144-precomposed.png - PNG [144x144, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-144-precomposed.png - PNG [144x144, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-06T17:58:01.27Z",
-              "EditorCaption": " - PNG [114x114, 32 bit, PNG]"
+              "WhenOpened": "2025-02-24T01:28:30.819Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Site.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\Site.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\Site.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\Site.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\Site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:06:03.71Z",
-              "EditorCaption": ""
+              "Title": "apple-touch-icon-114-precomposed.png - PNG [114x114, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-114-precomposed.png",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\images\\apple-touch-icon-114-precomposed.png",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-114-precomposed.png - PNG [114x114, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-114-precomposed.png - PNG [114x114, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-06T17:58:01.27Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Global.asax.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Global.asax.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\Global.asax.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T12:07:56.292Z",
-              "EditorCaption": ""
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\Site.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\Site.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-26T19:06:03.71Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "bootstrap-grid.rtl.min.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-24T01:28:11.474Z",
-              "EditorCaption": ""
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Global.asax.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Global.asax.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\Global.asax.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:07:56.292Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.min.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.min.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "bootstrap-grid.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T20:13:49.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T01:28:11.474Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "animate.min.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\animate.min.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\animate.min.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\animate.min.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\animate.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.min.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-21T11:31:47.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T20:13:49.602Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "bootstrap-grid.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.css",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "animate.min.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\animate.min.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\animate.min.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\animate.min.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\animate.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-24T01:27:36.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T11:31:47.525Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "bootstrap.rtl.min.css.map",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css.map",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css.map",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css.map",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T08:38:21.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.css",
-              "ViewState": "AgIAANsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.css",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:26:45.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T01:27:36.094Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "bootstrap.css.map",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.css.map",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap.css.map",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.css.map",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.css.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "bootstrap.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css.map",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css.map",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T01:27:48.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T08:38:21.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "bootstrap-utilities.rtl.css.map",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-utilities.rtl.css.map",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-utilities.rtl.css.map",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-utilities.rtl.css.map",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-utilities.rtl.css.map",
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.css",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-26T19:26:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.css.map",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T19:38:36.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T01:27:48.224Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "bootstrap-utilities.min.css.map",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-utilities.min.css.map",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-utilities.min.css.map",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-utilities.min.css.map",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-utilities.min.css.map",
+              "Title": "bootstrap-utilities.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-utilities.rtl.css.map",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-utilities.rtl.css.map",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-utilities.rtl.css.map",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-utilities.rtl.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T19:38:35.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:38:36.525Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "bootstrap-reboot.rtl.min.css.map",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css.map",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css.map",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css.map",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css.map",
+              "Title": "bootstrap-utilities.min.css.map",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-utilities.min.css.map",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-utilities.min.css.map",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-utilities.min.css.map",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-utilities.min.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T19:38:33.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:38:35.153Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "bootstrap-reboot.rtl.min.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css",
+              "Title": "bootstrap-reboot.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css.map",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css.map",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:30:18.712Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-26T19:38:33.304Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "bootstrap-reboot.css.map",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.css.map",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.css.map",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.css.map",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.css.map",
+              "Title": "bootstrap-reboot.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T19:30:16.165Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-26T19:30:18.712Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "bootstrap-grid.rtl.css.map",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css.map",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css.map",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css.map",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css.map",
+              "Title": "bootstrap-reboot.css.map",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.css.map",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.css.map",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.css.map",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T19:30:13.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:30:16.165Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "bootstrap-grid.min.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.min.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.min.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.min.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.min.css",
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:30:07.54Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-26T19:30:13.509Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "bootstrap.rtl.min.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css",
+              "Title": "bootstrap-grid.min.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.min.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.min.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.min.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:26:54.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:30:07.54Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "bootstrap-reboot.rtl.css.map",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.css.map",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.css.map",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.css.map",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.css.map",
+              "Title": "bootstrap.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.rtl.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T19:26:41.46Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-26T19:26:54.195Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "bootstrap-reboot.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.css",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:26:38.804Z",
-              "EditorCaption": ""
+              "Title": "bootstrap-reboot.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.css.map",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.css.map",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.css.map",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-26T19:26:41.46Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "bootstrap-grid.rtl.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T19:26:31.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "bootstrap-grid.css.map",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.css.map",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.css.map",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.css.map",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.css.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T01:28:39.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:26:38.804Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "lab_1_templates_sandu\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T11:32:01.604Z",
-              "EditorCaption": ""
+              "Title": "bootstrap-grid.rtl.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-26T19:26:31.257Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
-              "Title": "login-logo.png - PNG [345x92, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\login-logo.png",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\images\\login-logo.png",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\login-logo.png - PNG [345x92, 32 bit, PNG]",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\images\\login-logo.png - PNG [345x92, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-24T01:28:35.163Z",
-              "EditorCaption": " - PNG [345x92, 32 bit, PNG]"
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.css.map",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T01:28:39.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "lab_1_templates_sandu\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T11:32:01.604Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
-              "Title": "apple-touch-icon-72-precomposed.png - PNG [72x72, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-72-precomposed.png",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\images\\apple-touch-icon-72-precomposed.png",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-72-precomposed.png - PNG [72x72, 32 bit, PNG]",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\images\\apple-touch-icon-72-precomposed.png - PNG [72x72, 32 bit, PNG]",
+              "Title": "login-logo.png - PNG [345x92, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\login-logo.png",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\images\\login-logo.png",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\login-logo.png - PNG [345x92, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\login-logo.png - PNG [345x92, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-24T01:28:33.553Z",
-              "EditorCaption": " - PNG [72x72, 32 bit, PNG]"
+              "WhenOpened": "2025-02-24T01:28:35.163Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 45,
-              "Title": "bootstrap-grid.rtl.min.css.map",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css.map",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css.map",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css.map",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T01:28:26.99Z",
-              "EditorCaption": ""
+              "Title": "apple-touch-icon-72-precomposed.png - PNG [72x72, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-72-precomposed.png",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\images\\apple-touch-icon-72-precomposed.png",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-72-precomposed.png - PNG [72x72, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\images\\apple-touch-icon-72-precomposed.png - PNG [72x72, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-24T01:28:33.553Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 46,
-              "Title": "bootstrap-reboot.min.css.map",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css.map",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css.map",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css.map",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css.map",
+              "Title": "bootstrap-grid.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css.map",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css.map",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-grid.rtl.min.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T01:28:05.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T01:28:26.99Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 47,
-              "Title": "bootstrap-reboot.min.css",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css",
+              "Title": "bootstrap-reboot.min.css.map",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css.map",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css.map",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css.map",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-24T01:27:58.162Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T01:28:05.038Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 48,
-              "Title": "bootstrap.min.css.map",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.min.css.map",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap.min.css.map",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.min.css.map",
-              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.min.css.map",
+              "Title": "bootstrap-reboot.min.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap-reboot.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T01:27:52.897Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-24T01:27:58.162Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 49,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Content\\bootstrap.min.css.map",
+              "RelativeToolTip": "lab_1_templates_sandu\\Content\\bootstrap.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T01:27:52.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Scripts\\js\\index.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Scripts\\js\\index.html",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Scripts\\js\\index.html",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\lab_1\\Solution1\\lab_1_templates_sandu\\Scripts\\js\\index.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProiectTweb\\Proiect_MRSTWeb\\lab_1\\Solution1\\lab_1_templates_sandu\\Scripts\\js\\index.html",
               "RelativeToolTip": "lab_1_templates_sandu\\Scripts\\js\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-21T12:50:58.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T12:50:58.188Z"
             }
           ]
         }
