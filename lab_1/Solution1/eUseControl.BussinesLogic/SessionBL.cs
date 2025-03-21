@@ -10,14 +10,6 @@ namespace eUseControl.BussinesLogic
 {  
    public class SessionBL : UserAPI, ISession
     {
-        public void StartSession(string userId)
-        {
-            Console.WriteLine($"susiunea a fost inceputa pentru utilizatorul {userId}");
-        }
-
-        public void EndSession()
-        {
-            Console.WriteLine("Sesiunea a fost inchisa");
-        }
+        
     }
 }
