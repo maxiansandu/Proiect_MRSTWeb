@@ -12,13 +12,17 @@ namespace eUseControl.Web.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            var person = new Person
-            {
-                specialitatea="TI",
-                grupa = 231,
-                name = "Sandu"
-            };
-            return View(person);
+          
+            return View();
+        }
+
+        
+        [HttpPost]
+
+        public ActionResult Create(Person person)
+        {
+
+            return ($"numele personei {person.name}");
         }
 
        
