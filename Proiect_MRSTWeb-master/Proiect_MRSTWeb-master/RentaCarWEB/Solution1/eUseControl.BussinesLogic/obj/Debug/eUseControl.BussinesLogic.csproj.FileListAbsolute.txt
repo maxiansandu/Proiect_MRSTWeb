@@ -43,3 +43,7 @@ C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-mas
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseCont.0A20F554.Up2Date
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.dll
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.pdb
+C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate.resources
+C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.csproj.GenerateResource.cache
+C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate1.resources
+C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate2.resources

@@ -9,14 +9,12 @@ using eUseControl.Domain.Entities.User;
 
 namespace eUseControl.BussinesLogic.DBModel.Seed
 {
-    internal class UserContext:DbContext
+    public class UserContext : DbContext
     {
-        public UserContext()
-        : base("name=TWEB") // ia connection string-ul din web.config
+        public DbSet<UDBTable> Users { get; set; }
+
+        public UserContext() : base("name=TWEB") // Folosește numele din connection string
         {
         }
-
-        public virtual DbSet<UDBTable> Users { get; set; }
-
     }
 }

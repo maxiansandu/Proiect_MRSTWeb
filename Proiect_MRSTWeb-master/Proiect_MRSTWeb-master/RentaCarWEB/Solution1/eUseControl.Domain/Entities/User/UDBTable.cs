@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace eUseControl.Domain.Entities.User
 {
+    [Table("UDBTables")]
     public class UDBTable
     {
         [Key]

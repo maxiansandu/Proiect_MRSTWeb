@@ -1,0 +1,2 @@
+DELETE FROM dbo.UDBTables;
+DBCC CHECKIDENT ('dbo.UDBTables', RESEED, 0);

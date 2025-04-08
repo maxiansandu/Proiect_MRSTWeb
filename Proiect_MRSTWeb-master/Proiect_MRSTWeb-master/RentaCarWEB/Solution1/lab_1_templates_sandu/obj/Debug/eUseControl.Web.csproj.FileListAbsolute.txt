@@ -184,3 +184,5 @@ C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-mas
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\lab_1_templates_sandu\obj\Debug\eUseCont.507825D9.Up2Date
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\lab_1_templates_sandu\obj\Debug\eUseControl.Web.dll
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\lab_1_templates_sandu\obj\Debug\eUseControl.Web.pdb
+C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\lab_1_templates_sandu\bin\EntityFramework.SqlServer.dll
+C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\lab_1_templates_sandu\bin\EntityFramework.SqlServer.xml

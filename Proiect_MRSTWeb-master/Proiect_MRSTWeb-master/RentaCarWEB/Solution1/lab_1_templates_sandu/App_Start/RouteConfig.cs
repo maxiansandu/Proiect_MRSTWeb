@@ -16,7 +16,7 @@ namespace eUseControl.Web
             routes.MapRoute(
      name: "Default",
      url: "{controller}/{action}/{id}",
-     defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional },
+     defaults: new { controller = "LogPage", action = "UserLogPage", id = UrlParameter.Optional },
      namespaces: new[] { "eUseControl.Web.Controllers" } // Modifică cu namespace-ul corect
  );
         }

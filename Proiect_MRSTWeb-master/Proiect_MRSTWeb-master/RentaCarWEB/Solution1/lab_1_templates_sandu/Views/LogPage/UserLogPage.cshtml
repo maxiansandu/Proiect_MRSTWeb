@@ -8,18 +8,31 @@
 
 <div class="card p-4 shadow-lg" style="width: 350px; background-color: black;">
     <h3 class="text-center mb-4" style="color:cornflowerblue;">Autentificare</h3>
+
+    @* Form de autentificare *@
     <form method="post" action="@Url.Action("Login", "LogPage")">
         <div class="mb-3">
             <label for="username" class="form-label" style="color: rgb(52, 207, 235);">Username</label>
-            <!-- Correct way to use TextBoxFor helper -->
             @Html.TextBoxFor(model => model.Username, new { @class = "form-control", @id = "username", @placeholder = "Introdu username-ul" })
         </div>
+
         <div class="mb-3">
             <label for="password" class="form-label" style="color: rgb(52, 207, 235);">Parolă</label>
-            <!-- Correct way to use PasswordFor helper -->
             @Html.PasswordFor(model => model.Password, new { @class = "form-control", @id = "password", @placeholder = "Introdu parola" })
         </div>
-        <button type="submit" class="btn btn-primary w-100">Autentificare</button>
+
+        <button type="submit" class="btn btn-primary w-100 mb-2">Autentificare</button>
     </form>
+
+    @* Buton către pagina de înregistrare *@
+    <form method="get" action="@Url.Action("RegisterPage", "LogPage")">
+        <button type="submit" class="btn btn-outline-info w-100">Înregistrare</button>
+    </form>
+
 </div>
-]
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success text-center">
+        @TempData["SuccessMessage"]
+    </div>
+}
