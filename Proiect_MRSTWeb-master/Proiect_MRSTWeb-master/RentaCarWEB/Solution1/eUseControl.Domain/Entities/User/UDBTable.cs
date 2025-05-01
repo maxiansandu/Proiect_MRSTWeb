@@ -18,7 +18,7 @@ namespace eUseControl.Domain.Entities.User
 
         [Required]
         [Display(Name = "username")]
-      
+
 
         public string username { get; set; }
 
@@ -26,6 +26,11 @@ namespace eUseControl.Domain.Entities.User
 
         public string password { get; set; }
 
+        [Required]
+        [Display(Name = "email")]
+        public string email { get; set; }
 
+
+        
     }
 }

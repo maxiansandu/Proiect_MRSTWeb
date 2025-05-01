@@ -25,20 +25,27 @@ namespace eUseControl.Web.Controllers
         // Afișează pagina de login
 
 
-        // Procesează datele introduse de utilizator
         [HttpPost]
-        public ActionResult Login(ULoginData user)
+        public ActionResult Login(RegisterViewModel model)
         {
-            // Verify user credentials
-            bool isValidUser = _session.Login(user.Username, user.Password);
-
-            if (isValidUser)
+            if (ModelState.IsValid)
             {
-                return RedirectToAction("Index", "Home"); // Redirects to the HomePage action in the Home controller // Redirect to the dashboard
+                // Verificăm datele de autentificare
+                var loginResult = _session.LoginWithResult(model.username, model.password);
+
+                if (loginResult.Status)
+                {
+                    // Autentificare reușită, redirectăm spre Home
+                    return RedirectToAction("Index", "Home");
+                }
+
+                // Dacă autentificarea a eșuat
+                ViewBag.Message = loginResult.Message;
+                return View("UserLogPage");
             }
 
-            // If authentication fails
-            ViewBag.Message = "Invalid credentials";
+            // Dacă ModelState nu este valid
+            ViewBag.Message = "Datele introduse nu sunt valide.";
             return View("UserLogPage");
         }
 
@@ -57,7 +64,8 @@ namespace eUseControl.Web.Controllers
             var userData = new ULoginData
             {
                 Username = model.username,
-                Password = model.password
+                Password = model.password,
+                Email = model.email
             };
 
             var result = _userApi.RegisterUser(userData);

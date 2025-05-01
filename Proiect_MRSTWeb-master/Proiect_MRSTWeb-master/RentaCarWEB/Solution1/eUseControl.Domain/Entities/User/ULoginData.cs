@@ -11,6 +11,8 @@ namespace eUseControl.Domain.Entities.User
     {
         public String Username { get; set; }
         public String Password { get; set; }
+        
+        public string Email { get; set; }
     }
    
 

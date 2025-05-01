@@ -11,6 +11,10 @@ namespace eUseControl.Web.Models
 
         public string username { get; set; }
 
+        public string email { get; set; }
+
         public string confirmPassword { get; set; }
+
+
     }
 }

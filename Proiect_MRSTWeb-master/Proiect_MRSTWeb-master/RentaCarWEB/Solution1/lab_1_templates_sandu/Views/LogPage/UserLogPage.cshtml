@@ -10,19 +10,24 @@
     <h3 class="text-center mb-4" style="color:cornflowerblue;">Autentificare</h3>
 
     @* Form de autentificare *@
-    <form method="post" action="@Url.Action("Login", "LogPage")">
-        <div class="mb-3">
-            <label for="username" class="form-label" style="color: rgb(52, 207, 235);">Username</label>
-            @Html.TextBoxFor(model => model.Username, new { @class = "form-control", @id = "username", @placeholder = "Introdu username-ul" })
-        </div>
+<form method="post" action="@Url.Action("Login", "LogPage")">
+    <div class="mb-3">
+        <label for="username" class="form-label" style="color: rgb(52, 207, 235);">Username</label>
+        @Html.TextBoxFor(model => model.Username, new { @class = "form-control", @id = "username", @placeholder = "Introdu username-ul" })
+    </div>
 
-        <div class="mb-3">
-            <label for="password" class="form-label" style="color: rgb(52, 207, 235);">Parolă</label>
-            @Html.PasswordFor(model => model.Password, new { @class = "form-control", @id = "password", @placeholder = "Introdu parola" })
-        </div>
+    <div class="mb-3">
+        <label for="password" class="form-label" style="color: rgb(52, 207, 235);">Parolă</label>
+        @Html.PasswordFor(model => model.Password, new { @class = "form-control", @id = "password", @placeholder = "Introdu parola" })
+    </div>
 
-        <button type="submit" class="btn btn-primary w-100 mb-2">Autentificare</button>
-    </form>
+    <div class="mb-3">
+        <label for="rmail" class="form-label" style="color: rgb(52, 207, 235);">E-mail</label>
+        @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @id = "email", @placeholder = "Introdu email" })
+    </div>
+
+    <button type="submit" class="btn btn-primary w-100 mb-2">Autentificare</button>
+</form>
 
     @* Buton către pagina de înregistrare *@
     <form method="get" action="@Url.Action("RegisterPage", "LogPage")">

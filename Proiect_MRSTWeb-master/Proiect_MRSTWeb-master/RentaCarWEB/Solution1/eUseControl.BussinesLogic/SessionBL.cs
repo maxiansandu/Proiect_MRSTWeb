@@ -10,16 +10,22 @@ using System.Threading.Tasks;
 
 namespace eUseControl.BussinesLogic
 {
-    public class SessionBL : ISession
+    public class SessionBL 
     {
         private readonly string validUsername = "admin";
         private readonly string validPassword = "1234";
 
-        public bool Login(string username, string password)
+        private readonly UserApi _userApi = new UserApi();
+
+        public LoginResult LoginWithResult(string usernameOrEmail, string password)
         {
-            return username == validUsername && password == validPassword;
+            var loginData = new ULoginData
+            {
+                Username = usernameOrEmail,  // poate fi username sau email
+                Password = password
+            };
 
-
+            return _userApi.LoginUser(loginData);
         }
 
         public bool RegisterUser(ULoginData data, out string message)

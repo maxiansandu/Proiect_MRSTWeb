@@ -73,6 +73,10 @@
     <Compile Include="Migrations\202504071155579_InitialCreate2.Designer.cs">
       <DependentUpon>202504071155579_InitialCreate2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202504082214437_InitialCreate3.cs" />
+    <Compile Include="Migrations\202504082214437_InitialCreate3.Designer.cs">
+      <DependentUpon>202504082214437_InitialCreate3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SessionBL.cs" />
@@ -96,6 +100,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202504071155579_InitialCreate2.resx">
       <DependentUpon>202504071155579_InitialCreate2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202504082214437_InitialCreate3.resx">
+      <DependentUpon>202504082214437_InitialCreate3.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

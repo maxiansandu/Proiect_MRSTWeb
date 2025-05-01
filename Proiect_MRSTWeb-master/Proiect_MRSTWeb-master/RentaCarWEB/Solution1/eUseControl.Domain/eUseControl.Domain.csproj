@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\Enums\URole.cs" />
+    <Compile Include="Entities\User\LoginResult.cs" />
     <Compile Include="Entities\User\RegisterResult.cs" />
     <Compile Include="Entities\User\UDBTable.cs" />
     <Compile Include="Entities\User\ULoginData.cs" />
