@@ -11,6 +11,8 @@ namespace eUseControl.Domain.Entities.User
         public bool Status { get; set; }
         public string Message { get; set; }
 
+        public string Role { get; set; }
+
         public UDBTable User { get; set; }
     }
 }

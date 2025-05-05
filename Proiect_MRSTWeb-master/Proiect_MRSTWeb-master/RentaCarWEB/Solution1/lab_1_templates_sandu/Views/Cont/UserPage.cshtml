@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "UserPage";
+    var numeUtilizator = Session["Username"];
+    var rolUtilizator = Session["Role"];
+    var anunturiPostate = 12;
+    var anunturiFavorite = 5;
+    var descriere = "La mine gasiti cele mai bune oferte de autobobile dupa neceitatile si buzunarul fiecaruia";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg border-0 rounded-4" style="background-color: rgba(13, 17, 23, 0.85); color: white;">
+                <div class="card-body p-5">
+
+                    <!-- Pictogramă + Nume complet + Rol -->
+                    <div class="d-flex align-items-center mb-4">
+                        <div class="me-4">
+                            <i class="bi bi-person-circle" style="font-size: 4rem; color: #1f6feb;"></i>
+                        </div>
+                        <div>
+                            <h2 class="mb-1 text-white">@numeUtilizator</h2>
+                            <p class="mb-0 text-white-50">Rol: @rolUtilizator</p>
+                        </div>
+                        <div class="ms-auto">
+                            <a href="/User/Edit" class="btn btn-outline-primary rounded-pill text-white border-white">
+                                <i class="bi bi-pencil"></i> Editează profil
+                            </a>
+                        </div>
+                    </div>
+
+                    <hr class="border-secondary">
+
+                    <!-- Statistici -->
+                    <div class="row text-center mb-4">
+                        <div class="col-md-6">
+                            <h5 class="text-white">Anunțuri postate</h5>
+                            <p class="fs-4 text-white">@anunturiPostate</p>
+                        </div>
+                        <div class="col-md-6">
+                            <h5 class="text-white">Favorite</h5>
+                            <p class="fs-4 text-white">@anunturiFavorite</p>
+                        </div>
+                    </div>
+
+                    <hr class="border-secondary">
+
+                    <!-- Descriere -->
+                    <div>
+                        <h5 class="text-white mb-2">Descriere</h5>
+                        <textarea class="form-control bg-dark text-white border-secondary" rows="4"
+                                  placeholder="Scrie ceva despre tine...">@descriere</textarea>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

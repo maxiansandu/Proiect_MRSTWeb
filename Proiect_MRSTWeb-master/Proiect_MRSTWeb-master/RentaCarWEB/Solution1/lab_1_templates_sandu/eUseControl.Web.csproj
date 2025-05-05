@@ -197,6 +197,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\ContController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LogPageController.cs" />
     <Compile Include="Global.asax.cs">
@@ -240,6 +241,8 @@
     <Content Include="Scripts\bootstrap.bundle.js.map" />
     <Content Include="Views\LogPage\UserLogPage.cshtml" />
     <Content Include="Views\LogPage\RegisterPage.cshtml" />
+    <Content Include="Views\Cont\UserPage.cshtml" />
+    <Content Include="Views\Cont\AdminPage.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -22,8 +22,7 @@ namespace eUseControl.Web.Controllers
 
         private readonly SessionBL _session = new SessionBL();
 
-        // Afișează pagina de login
-
+      
 
         [HttpPost]
         public ActionResult Login(RegisterViewModel model)
@@ -32,11 +31,18 @@ namespace eUseControl.Web.Controllers
             {
                 // Verificăm datele de autentificare
                 var loginResult = _session.LoginWithResult(model.username, model.password);
-
                 if (loginResult.Status)
                 {
-                    // Autentificare reușită, redirectăm spre Home
-                    return RedirectToAction("Index", "Home");
+                    
+                    Session["Username"] = loginResult.User.username;
+                    Session["Email"] = loginResult.User.email;
+                    Session["Role"] = loginResult.Role;
+
+                 //   return RedirectToAction("Index", "Home");
+                    if (loginResult.Role == "admin")
+                        return RedirectToAction("AdminPage", "Cont");
+                    else
+                        return RedirectToAction("UserPage", "Cont");
                 }
 
                 // Dacă autentificarea a eșuat
@@ -44,10 +50,30 @@ namespace eUseControl.Web.Controllers
                 return View("UserLogPage");
             }
 
+           
+
             // Dacă ModelState nu este valid
             ViewBag.Message = "Datele introduse nu sunt valide.";
             return View("UserLogPage");
         }
+
+        [HttpGet]
+        public ActionResult Login2()
+        {
+            // Verifică dacă datele sunt disponibile în sesiune
+            var username = Session["Username"];
+            var email = Session["Email"];
+            var role = Session["Role"];
+
+            if (role == "admin")
+                return RedirectToAction("AdminPage", "Cont");
+            else
+                return RedirectToAction("UserPage", "Cont");
+        }
+           
+        
+
+
 
 
         private readonly UserApi _userApi = new UserApi();

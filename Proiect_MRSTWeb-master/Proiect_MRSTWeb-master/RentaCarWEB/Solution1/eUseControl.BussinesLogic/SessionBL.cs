@@ -12,20 +12,29 @@ namespace eUseControl.BussinesLogic
 {
     public class SessionBL 
     {
-        private readonly string validUsername = "admin";
-        private readonly string validPassword = "1234";
+       
 
         private readonly UserApi _userApi = new UserApi();
 
-        public LoginResult LoginWithResult(string usernameOrEmail, string password)
+        public LoginResult LoginWithResult(string username, string password)
         {
             var loginData = new ULoginData
             {
-                Username = usernameOrEmail,  // poate fi username sau email
+                Username = username,
                 Password = password
             };
 
-            return _userApi.LoginUser(loginData);
+            var result = _userApi.LoginUser(loginData); // Verificare în DB
+
+            if (result.Status)
+            {
+                // Setăm rolul în funcție de username
+                var role = (password == "admin") ? "Admin" : "User";
+
+                result.Role = role; // presupunem că ai o proprietate Role în modelul User
+            }
+
+            return result;
         }
 
         public bool RegisterUser(ULoginData data, out string message)

@@ -30,7 +30,9 @@ namespace eUseControl.Domain.Entities.User
         [Display(Name = "email")]
         public string email { get; set; }
 
+       
 
-        
+
+
     }
 }

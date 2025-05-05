@@ -12,21 +12,22 @@ namespace eUseControl.BussinesLogic.Core
             using (var db = new UserContext())
             {
                 var user = db.Users.FirstOrDefault(u =>
-                    (u.username == data.Username || u.email == data.Username) && u.password == data.Password);
+                    (u.username == data.Username || u.email == data.Username)
+                    && u.password == data.Password);
 
                 if (user == null)
                 {
                     return new LoginResult
                     {
                         Status = false,
-                        Message = "Username, email sau parolă incorecte."
+                        Message = "Username/email sau parolă incorectă."
                     };
                 }
 
                 return new LoginResult
                 {
                     Status = true,
-                    Message = "Autentificare reușită!",
+                    Message = "Autentificare reușită.",
                     User = user
                 };
             }
