@@ -29,7 +29,7 @@ namespace eUseControl.BussinesLogic
             if (result.Status)
             {
                 // Setăm rolul în funcție de username
-                var role = (password == "admin") ? "Admin" : "User";
+                var role = (password == "admin") ? "admin" : "user";
 
                 result.Role = role; // presupunem că ai o proprietate Role în modelul User
             }

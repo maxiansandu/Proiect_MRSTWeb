@@ -63,7 +63,7 @@ namespace eUseControl.Web.Controllers
             // Verifică dacă datele sunt disponibile în sesiune
             var username = Session["Username"];
             var email = Session["Email"];
-            var role = Session["Role"];
+            var role = Session["Role"] as string;
 
             if (role == "admin")
                 return RedirectToAction("AdminPage", "Cont");
