@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "AdminPage";
+
+    var numeAdmin = Session["Username"];
+    var totalUtilizatori = 154;
+    var totalAnunturi = 320;
+    var anunturiRaportate = 8;
+    var descriere = "Administrator al paginii web, ma puteti contacta pe mail maxian.sandu@gmail,com.";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-10">
+            <div class="card shadow-lg border-0 rounded-4" style="background-color: rgba(13, 17, 23, 0.85); color: white;">
+                <div class="card-body p-5">
+
+                    <!-- Header cu pictogramă -->
+                    <div class="d-flex align-items-center mb-4">
+                        <div class="me-4">
+                            <i class="bi bi-shield-lock" style="font-size: 4rem; color: #1f6feb;"></i>
+                        </div>
+                        <div>
+                            <h2 class="mb-1 text-white">@numeAdmin</h2>
+                            <p class="mb-0 text-white-50">Rol: Administrator</p>
+                        </div>
+                        <div class="ms-auto">
+                            <a href="/Admin/Dashboard" class="btn btn-outline-primary rounded-pill text-white border-white">
+                                <i class="bi bi-sliders"></i> Panou administrare
+                            </a>
+                        </div>
+                    </div>
+
+                    <hr class="border-secondary">
+
+                    <!-- Statistici -->
+                    <div class="row text-center mb-4">
+                        <div class="col-md-4">
+                            <h5 class="text-white">Utilizatori</h5>
+                            <p class="fs-4 text-white">@totalUtilizatori</p>
+                        </div>
+                        <div class="col-md-4">
+                            <h5 class="text-white">Anunțuri</h5>
+                            <p class="fs-4 text-white">@totalAnunturi</p>
+                        </div>
+                        <div class="col-md-4">
+                            <h5 class="text-white">Raportări</h5>
+                            <p class="fs-4 text-white">@anunturiRaportate</p>
+                        </div>
+                    </div>
+
+                    <hr class="border-secondary">
+
+                    <!-- Descriere -->
+                    <div>
+                        <h5 class="text-white mb-2">Descriere activitate</h5>
+                        <textarea class="form-control bg-dark text-white border-secondary" rows="4"
+                                  placeholder="Adaugă observații sau note interne...">@descriere</textarea>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

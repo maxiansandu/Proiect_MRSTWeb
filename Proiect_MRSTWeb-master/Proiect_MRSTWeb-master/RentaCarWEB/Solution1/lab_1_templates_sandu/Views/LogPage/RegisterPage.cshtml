@@ -1,0 +1,53 @@
+﻿@model eUseControl.Web.Models.RegisterViewModel
+
+<h2 class="text-center mt-4" style="color:cornflowerblue;">Înregistrare</h2>
+
+<div class="card p-4 shadow-lg mx-auto mt-4" style="width: 400px; background-color: black;">
+    <form method="post" action="@Url.Action("Register", "LogPage")">
+        <div class="mb-3">
+            <label for="username" class="form-label" style="color: rgb(52, 207, 235);">Username</label>
+            @Html.TextBoxFor(model => model.username, new
+            {
+                @class = "form-control",
+                @id = "username",
+                @placeholder = "Alege un username"
+            })
+        </div>
+
+        <div class="mb-3">
+            <label for="password" class="form-label" style="color: rgb(52, 207, 235);">Parolă</label>
+            @Html.PasswordFor(model => model.password, new
+            {
+                @class = "form-control",
+                @id = "password",
+                @placeholder = "Alege o parolă"
+            })
+        </div>
+        <div class="form-group">
+            <label for="email" class="form-label" style="color: rgb(52, 207, 235);">Email</label>
+            @Html.TextBoxFor(model => model.email, new
+            {
+                @class = "form-control",
+                @id = "email",
+                @placeholder = "Introduceți adresa de email"
+            })
+            @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="mb-3">
+            <label for="confirmPassword" class="form-label" style="color: rgb(52, 207, 235);">Confirmă parola</label>
+            <input type="password" name="confirmPassword" class="form-control" id="confirmPassword" placeholder="Reintrodu parola" required />
+        </div>
+
+        <button type="submit" class="btn btn-success w-100">Înregistrare</button>
+
+        <div class="text-center mt-3">
+            <a href="@Url.Action("UserLogPage", "LogPage")" class="text-info">Ai deja un cont? Autentifică-te</a>
+        </div>
+    </form>
+
+    @if (!string.IsNullOrEmpty(ViewBag.Message as string))
+    {
+        <p class="text-danger mt-3 text-center">@ViewBag.Message</p>
+    }
+</div>
