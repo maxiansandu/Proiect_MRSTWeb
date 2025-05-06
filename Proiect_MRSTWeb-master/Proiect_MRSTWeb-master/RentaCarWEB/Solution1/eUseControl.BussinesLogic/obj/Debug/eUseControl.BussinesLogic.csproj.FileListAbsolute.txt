@@ -31,9 +31,7 @@ C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-mas
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\bin\Debug\eUseControl.BussinesLogic.pdb
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\bin\Debug\EntityFramework.dll
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\bin\Debug\eUseControl,Helpers.dll
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\bin\Debug\eUseControl.Domain.dll
-C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\bin\Debug\eUseControl,Helpers.pdb
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\bin\Debug\eUseControl.Domain.pdb
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\bin\Debug\eUseControl.Domain.dll.config
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\bin\Debug\EntityFramework.xml
@@ -48,3 +46,4 @@ C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-mas
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate1.resources
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate2.resources
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate3.resources
+C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate4.resources

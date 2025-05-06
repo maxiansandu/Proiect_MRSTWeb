@@ -77,15 +77,15 @@
     <Compile Include="Migrations\202504082214437_InitialCreate3.Designer.cs">
       <DependentUpon>202504082214437_InitialCreate3.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202505060354449_InitialCreate4.cs" />
+    <Compile Include="Migrations\202505060354449_InitialCreate4.Designer.cs">
+      <DependentUpon>202505060354449_InitialCreate4.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SessionBL.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\eUseControl,Helpers\eUseControl.Helpers.csproj">
-      <Project>{70fd42ad-daaf-439c-a068-663092c0d16c}</Project>
-      <Name>eUseControl.Helpers</Name>
-    </ProjectReference>
     <ProjectReference Include="..\eUseControl.Domain\eUseControl.Domain.csproj">
       <Project>{b0cd5199-5630-4bdd-9533-525544f0134e}</Project>
       <Name>eUseControl.Domain</Name>
@@ -103,6 +103,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202504082214437_InitialCreate3.resx">
       <DependentUpon>202504082214437_InitialCreate3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202505060354449_InitialCreate4.resx">
+      <DependentUpon>202505060354449_InitialCreate4.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

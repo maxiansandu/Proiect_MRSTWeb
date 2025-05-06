@@ -3,7 +3,11 @@ using eUseControl.BussinesLogic.Core;
 using eUseControl.BussinesLogic.Interfaces;
 using eUseControl.Domain.Entities.User;
 using eUseControl.Web.Models;
+using System.Web;
+using System;
 using System.Web.Mvc;
+using eUseControl.BussinesLogic.DBModel.Seed;
+
 
 namespace eUseControl.Web.Controllers
 {
@@ -22,8 +26,8 @@ namespace eUseControl.Web.Controllers
 
         private readonly SessionBL _session = new SessionBL();
 
-      
 
+        
         [HttpPost]
         public ActionResult Login(RegisterViewModel model)
         {
@@ -38,7 +42,29 @@ namespace eUseControl.Web.Controllers
                     Session["Email"] = loginResult.User.email;
                     Session["Role"] = loginResult.Role;
 
-                 //   return RedirectToAction("Index", "Home");
+                    var token = Guid.NewGuid().ToString(); // poți folosi și altă metodă de generare
+
+                    var newSession = new UserSession
+                    {
+                        Username = loginResult.User.username,
+                        SessionToken = token,
+                        IpAddress = Request.UserHostAddress,
+                        UserAgent = Request.UserAgent,
+                        CreatedAt = DateTime.Now
+                    };
+
+                    using (var db = new UserContext())
+                    {
+                        db.UserSessions.Add(newSession);
+                        db.SaveChanges();
+                    }
+
+                    // Salvează tokenul în cookie + sesiune
+                    Response.Cookies.Add(new HttpCookie("AuthToken", token));
+                    Session["Username"] = loginResult.User.username;
+                    Session["Role"] = loginResult.Role;
+
+                    //   return RedirectToAction("Index", "Home");
                     if (loginResult.Role == "admin")
                         return RedirectToAction("AdminPage", "Cont");
                     else

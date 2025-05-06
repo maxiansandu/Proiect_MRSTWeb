@@ -56,13 +56,8 @@
     <Compile Include="Entities\User\RegisterResult.cs" />
     <Compile Include="Entities\User\UDBTable.cs" />
     <Compile Include="Entities\User\ULoginData.cs" />
+    <Compile Include="Entities\User\UserSession.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\eUseControl,Helpers\eUseControl.Helpers.csproj">
-      <Project>{70fd42ad-daaf-439c-a068-663092c0d16c}</Project>
-      <Name>eUseControl.Helpers</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

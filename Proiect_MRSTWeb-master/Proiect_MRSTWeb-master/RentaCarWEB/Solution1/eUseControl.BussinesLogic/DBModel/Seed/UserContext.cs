@@ -13,6 +13,8 @@ namespace eUseControl.BussinesLogic.DBModel.Seed
     {
         public DbSet<UDBTable> Users { get; set; }
 
+        public DbSet<UserSession> UserSessions { get; set; }
+
         public UserContext() : base("name=TWEB") // Folosește numele din connection string
         {
         }
