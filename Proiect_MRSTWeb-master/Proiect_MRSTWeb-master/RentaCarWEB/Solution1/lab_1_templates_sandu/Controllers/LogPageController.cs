@@ -7,6 +7,8 @@ using System.Web;
 using System;
 using System.Web.Mvc;
 using eUseControl.BussinesLogic.DBModel.Seed;
+using System.Linq;
+using eUseControl.Helpers.Filters;
 
 
 namespace eUseControl.Web.Controllers
@@ -33,24 +35,21 @@ namespace eUseControl.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                // Verificăm datele de autentificare
                 var loginResult = _session.LoginWithResult(model.username, model.password);
                 if (loginResult.Status)
                 {
-                    
                     Session["Username"] = loginResult.User.username;
                     Session["Email"] = loginResult.User.email;
                     Session["Role"] = loginResult.Role;
-
-                    var token = Guid.NewGuid().ToString(); // poți folosi și altă metodă de generare
-
+                    var token = Guid.NewGuid().ToString();
                     var newSession = new UserSession
                     {
                         Username = loginResult.User.username,
                         SessionToken = token,
                         IpAddress = Request.UserHostAddress,
                         UserAgent = Request.UserAgent,
-                        CreatedAt = DateTime.Now
+                        CreatedAt = DateTime.Now,
+                        ExpiresAt = DateTime.Now.AddMinutes(30)  // Setează timpul de expirare pentru sesiune
                     };
 
                     using (var db = new UserContext())
@@ -59,46 +58,87 @@ namespace eUseControl.Web.Controllers
                         db.SaveChanges();
                     }
 
-                    // Salvează tokenul în cookie + sesiune
-                    Response.Cookies.Add(new HttpCookie("AuthToken", token));
-                    Session["Username"] = loginResult.User.username;
-                    Session["Role"] = loginResult.Role;
+                    var cookie = new HttpCookie("AuthToken", token)
+                    {
+                        Expires = DateTime.Now.AddMinutes(30) // Setează expirarea cookie-ului
+                    };
+                    Response.Cookies.Add(cookie);
 
-                    //   return RedirectToAction("Index", "Home");
                     if (loginResult.Role == "admin")
                         return RedirectToAction("AdminPage", "Cont");
                     else
                         return RedirectToAction("UserPage", "Cont");
                 }
 
-                // Dacă autentificarea a eșuat
                 ViewBag.Message = loginResult.Message;
                 return View("UserLogPage");
             }
 
-           
-
-            // Dacă ModelState nu este valid
             ViewBag.Message = "Datele introduse nu sunt valide.";
             return View("UserLogPage");
         }
 
         [HttpGet]
+
         public ActionResult Login2()
         {
-            // Verifică dacă datele sunt disponibile în sesiune
-            var username = Session["Username"];
-            var email = Session["Email"];
-            var role = Session["Role"] as string;
+            var token = Request.Cookies["AuthToken"]?.Value;
 
-            if (role == "admin")
-                return RedirectToAction("AdminPage", "Cont");
-            else
-                return RedirectToAction("UserPage", "Cont");
+            if (!string.IsNullOrEmpty(token))
+            {
+                using (var db = new UserContext())
+                {
+                    var session = db.UserSessions.FirstOrDefault(s => s.SessionToken == token);
+                    if (session != null && session.ExpiresAt > DateTime.Now)
+                    {
+                        // Dacă sesiunea este validă, redirecționează utilizatorul
+                        var role = Session["Role"] as string;
+                        if (role == "admin")
+                            return RedirectToAction("AdminPage", "Cont");
+                        else
+                            return RedirectToAction("UserPage", "Cont");
+                    }
+                }
+            }
+
+            return View("UserLogPage"); // Dacă nu există sesiune validă, rămâi pe login
         }
-           
-        
 
+
+
+
+
+
+
+
+
+        [HttpPost]
+        public ActionResult Logout()
+        {
+            var token = Request.Cookies["AuthToken"]?.Value;
+
+            if (!string.IsNullOrEmpty(token))
+            {
+                using (var db = new UserContext())
+                {
+                    var session = db.UserSessions.FirstOrDefault(s => s.SessionToken == token);
+                    if (session != null)
+                    {
+                        db.UserSessions.Remove(session);
+                        db.SaveChanges();
+                    }
+                }
+
+                // Șterge cookie-ul
+                var cookie = new HttpCookie("AuthToken")
+                {
+                    Expires = DateTime.Now.AddDays(-1)
+                };
+                Response.Cookies.Add(cookie);
+            }
+
+            return RedirectToAction("Login2");
+        }
 
 
 

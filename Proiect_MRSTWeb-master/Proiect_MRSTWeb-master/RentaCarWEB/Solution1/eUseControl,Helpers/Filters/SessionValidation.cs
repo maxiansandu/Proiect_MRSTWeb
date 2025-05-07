@@ -8,30 +8,41 @@ using System.Web.Mvc; // unde ai UserContext
 
 namespace eUseControl.Helpers.Filters
 {
-    public class SessionValidationAttribute : ActionFilterAttribute
-    {
+
+
+        public class SessionValidationAttribute : ActionFilterAttribute
+        {
         public override void OnActionExecuting(ActionExecutingContext filterContext)
         {
             var token = filterContext.HttpContext.Request.Cookies["AuthToken"]?.Value;
 
             if (string.IsNullOrEmpty(token))
             {
+                // Dacă nu există token în cookie, redirecționează la login
                 filterContext.Result = new RedirectResult("/LogPage/UserLogPage");
                 return;
             }
 
-            using (var db = new UserContext()) // sau YourDbContext
+            using (var db = new UserContext())
             {
                 var session = db.UserSessions.FirstOrDefault(s => s.SessionToken == token);
 
-                if (session == null || session.IpAddress != filterContext.HttpContext.Request.UserHostAddress)
-                {
-                    filterContext.Result = new RedirectResult("/LogPage/UserLogPage");
-                    return;
+                if (session == null || session.IpAddress != filterContext.HttpContext.Request.UserHostAddress ||  session.ExpiresAt < DateTime.Now)
+            {
+                        // Dacă sesiunea nu există sau a expirat, redirecționează la login
+                        if (session != null)
+                        {
+                            db.UserSessions.Remove(session);
+                            db.SaveChanges();
+                        }
+                        filterContext.Result = new RedirectResult("/LogPage/UserLogPage");
+                        return;
+                    }
                 }
-            }
 
-            base.OnActionExecuting(filterContext);
+                // Dacă sesiunea este validă, continuă execuția acțiunii
+                base.OnActionExecuting(filterContext);
+            }
         }
     }
-}
+   

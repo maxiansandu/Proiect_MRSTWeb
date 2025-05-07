@@ -57,6 +57,12 @@
                         <textarea class="form-control bg-dark text-white border-secondary" rows="4"
                                   placeholder="Adaugă observații sau note interne...">@descriere</textarea>
                     </div>
+                    <div>
+                        @using (Html.BeginForm("Logout", "LogPage", FormMethod.Post, new { @class = "mt-4 text-end" }))
+                        {
+                            <button type="submit" class="btn btn-danger">Logout</button>
+                        }
+                    </div>
 
                 </div>
             </div>

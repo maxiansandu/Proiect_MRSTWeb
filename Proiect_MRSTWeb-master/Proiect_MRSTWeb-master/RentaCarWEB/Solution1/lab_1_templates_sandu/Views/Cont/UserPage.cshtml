@@ -52,6 +52,14 @@
                                   placeholder="Scrie ceva despre tine...">@descriere</textarea>
                     </div>
 
+                    <div>
+                        @using (Html.BeginForm("Logout", "LogPage", FormMethod.Post, new { @class = "mt-4 text-end" }))
+                        {
+                            <button type="submit" class="btn btn-danger">Logout</button>
+                        }
+                    </div>
+
+
                 </div>
             </div>
         </div>
