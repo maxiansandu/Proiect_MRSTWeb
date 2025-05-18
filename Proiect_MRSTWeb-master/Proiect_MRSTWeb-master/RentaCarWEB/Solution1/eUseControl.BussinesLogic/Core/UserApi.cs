@@ -1,12 +1,54 @@
 ﻿using eUseControl.BussinesLogic.DBModel.Seed;
 using eUseControl.Domain.Entities.User;
-
+using System.Collections.Generic;
 using System.Linq;
+using System.Windows.Forms;
 
 namespace eUseControl.BussinesLogic.Core
 {
     public class UserApi
     {
+
+        public bool adAnunce(PostTable postTable)
+        {
+
+            try
+            {
+                using (var db = new UserContext()) {
+
+                    db.PostTables.Add(postTable);
+                    db.SaveChanges();
+                    return true;
+                        
+                
+                }
+
+
+            }
+            catch {
+
+                return false;
+            }
+            
+        }
+
+
+        public List<PostTable> get_posts() {
+
+
+            using (var db = new UserContext()) { 
+            
+            
+            
+            return db.PostTables.ToList();
+            
+            }
+        
+        
+        
+        }
+
+      
         public LoginResult LoginUser(ULoginData data)
         {
             using (var db = new UserContext())
@@ -32,6 +74,9 @@ namespace eUseControl.BussinesLogic.Core
                 };
             }
         }
+
+       
+
         public RegisterResult RegisterUser(ULoginData data)
         {
             using (var db = new UserContext())

@@ -1,8 +1,12 @@
 ﻿
-body {
+.default-background {
     background-image: url("https://wallup.net/wp-content/uploads/2017/03/28/453158-Audi_S5-Audi-car-blue_cars-vehicle-rain.jpg");
 }
-
+.carsBody {
+    background-image: url("https://wallpaperaccess.com/full/2529133.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
 /* Set padding to keep content from hitting the edges */
 .body-content {
     width: 1200px; /* Lățimea div-ului */
@@ -71,4 +75,10 @@ textarea {
     color:white
 }
 
+
+.container_1 {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 500px;
+    position: static
+}
 

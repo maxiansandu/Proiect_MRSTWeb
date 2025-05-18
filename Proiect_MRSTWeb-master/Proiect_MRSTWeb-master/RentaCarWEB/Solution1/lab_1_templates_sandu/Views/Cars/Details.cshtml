@@ -1,0 +1,41 @@
+﻿@model eUseControl.Web.Models.AnunceModel
+@{
+    ViewBag.Title = "Details";
+    ViewBag.sharedbody = "carsBody";
+}
+
+<h2>Details</h2
+
+<div>
+    <p style="color:white; font-size:40px; margin-top:-30px"> @Model.Titlu</p>
+    <div>
+        <img src="@Model.img_1" style="width: 250px; height: 250px; margin: 2px;" />
+        <img src="@Model.img_2" style="width: 250px; height: 250px; margin: 2px;" />
+        <img src="@Model.img_3" style="width: 250px; height: 250px; margin: 2px;" />
+        <img src="@Model.img_4" style="width: 250px; height: 250px; margin: 2px;" />
+        <img src="@Model.img_5" style="width: 250px; height: 250px; margin: 2px;" />
+
+
+    </div>
+    <div style="border: 2px,solid; border-color: rgb(5,130,255); background-color: rgba(0,0,0,0.7); width: 1300px;">
+        <div style="background-color:rgba(0,0,0,0.7); width: 300px;height:350px; margin-left: 900px; margin-top: 20px; position:relative">
+           <p  style="color:white; font-size:35px">  Specificatii</p>
+            <p style="color:white; font-size:25px">> Marca: @Model.Marca</p>
+            <p style="color:white; font-size:25px">> Model: @Model.model</p>
+            <p style="color:white; font-size:25px">> An de fabricatie: @Model.an</p>
+            <p style="color:white; font-size:25px">> Capacitate cilindrica @Model.engine</p>
+            <p style="color:white; font-size:25px">> Tip convustibil @Model.fuel</p>
+        </div>
+        <div style="background-color:rgba(0,0,0,0.7); width:700px; margin-top:-347px; position: absolute;">
+            <p  style="color:white; font-size:35px">Descriere:</p>
+            <p style="color:white; font-size:25px">@Model.description</p>
+        </div>
+        <div style="position:relative; background-color:rgba(0,0,0,0.7); width:700px; margin-top:-70px;">
+            <p style="color:white; font-size:25px">Pret @Model.price €</p>
+            <p style="color:white; font-size:25px">Proprietar: @Model.author</p>
+            <p style="color:white; font-size:25px">Contact: @Model.phone</p>
+            <p style="color:white; font-size:25px">Locatie @Model.location</p>
+        </div>
+    </div>
+    </div>
+

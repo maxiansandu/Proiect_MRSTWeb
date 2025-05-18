@@ -47,3 +47,8 @@ C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-mas
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate2.resources
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate3.resources
 C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate4.resources
+C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate5.resources
+C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate6.resources
+C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate7.resources
+C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate8.resources
+C:\Users\vboxuser\Documents\Tweb_labs\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.BussinesLogic\obj\Debug\eUseControl.BussinesLogic.Migrations.InitialCreate9.resources

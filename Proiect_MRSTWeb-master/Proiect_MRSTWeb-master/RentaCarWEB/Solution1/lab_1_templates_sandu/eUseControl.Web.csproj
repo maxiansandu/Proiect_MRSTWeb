@@ -147,18 +147,7 @@
     <Content Include="Content\fonts\font-awesome\fonts\fontawesome-webfont.svg" />
     <Content Include="Content\fonts\font-awesome\index.html" />
     <Content Include="Content\fonts\index.html" />
-    <Content Include="Content\images\apple-touch-icon-114-precomposed.png" />
-    <Content Include="Content\images\apple-touch-icon-144-precomposed.png" />
-    <Content Include="Content\images\apple-touch-icon-57-precomposed.png" />
-    <Content Include="Content\images\apple-touch-icon-72-precomposed.png" />
-    <Content Include="Content\images\bg_1.jpg" />
-    <Content Include="Content\images\favicon.png" />
     <Content Include="Content\images\index.html" />
-    <Content Include="Content\images\login-bg.png" />
-    <Content Include="Content\images\login-logo.png" />
-    <Content Include="Content\images\logo-folded.png" />
-    <Content Include="Content\images\logo-nav.png" />
-    <Content Include="Content\images\logo.png" />
     <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -197,12 +186,16 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\AnunceController.cs" />
+    <Compile Include="Controllers\CarsController.cs" />
     <Compile Include="Controllers\ContController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LogPageController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\AnunceModel.cs" />
+    <Compile Include="Models\carModell.cs" />
     <Compile Include="Models\RegisterViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -243,6 +236,9 @@
     <Content Include="Views\LogPage\RegisterPage.cshtml" />
     <Content Include="Views\Cont\UserPage.cshtml" />
     <Content Include="Views\Cont\AdminPage.cshtml" />
+    <Content Include="Views\Cars\eCars.cshtml" />
+    <Content Include="Views\Anunce\eAnunce.cshtml" />
+    <Content Include="Views\Cars\Details.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

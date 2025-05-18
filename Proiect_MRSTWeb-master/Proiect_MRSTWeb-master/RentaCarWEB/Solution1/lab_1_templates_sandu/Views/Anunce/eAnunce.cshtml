@@ -1,0 +1,158 @@
+﻿
+@{
+    ViewBag.Title = "eAnunce";
+    var numeUtilizator = Session["Username"];
+}
+
+<style>
+    body {
+        background-color: #f8f9fa; /* Gri deschis pentru contrast */
+    }
+
+    h2 {
+        color: #0d6efd; /* Bootstrap primary blue */
+        font-weight: bold;
+    }
+
+    .btn-primary {
+        background-color: #0d6efd;
+        border-color: #0d6efd;
+    }
+
+        .btn-primary:hover {
+            background-color: #0b5ed7;
+            border-color: #0a58ca;
+        }
+
+    .modal-content {
+        background-color: #ffffff;
+        color: #000000;
+    }
+
+    label {
+        font-weight: 500;
+    }
+
+    .form-control, .form-select {
+        background-color: #fff;
+        color: #000;
+        border: 1px solid #ced4da;
+    }
+
+        .form-control:focus, .form-select:focus {
+            border-color: #0d6efd;
+            box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+        }
+
+    .modal-header {
+        background-color: #0d6efd;
+        color: white;
+    }
+
+    .modal-footer {
+        background-color: #f1f1f1;
+    }
+</style>
+
+<div class="container_1">
+
+    <div class="container mt-4">
+        <h2> anunturile tale, @numeUtilizator</h2>
+
+        <div class="d-flex justify-content-end mb-3">
+            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#adaugaAnuntModal">
+                <i class="bi bi-plus-circle"></i> Adaugă Anunț
+            </button>
+        </div>
+        @using (Html.BeginForm("AdaugaAnunt", "Anunce", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <!-- Modal pentru adăugare anunț -->
+            <div class="modal fade" id="adaugaAnuntModal" tabindex="-1" aria-labelledby="adaugaAnuntLabel" aria-hidden="true">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                       
+                            <!-- Modifică cu acțiunea ta -->
+
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="adaugaAnuntLabel">Adaugă Anunț Nou</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Închide"></button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="mb-3">
+                                    <label for="Titlu" class="form-label">Titlu</label>
+                                    <input type="text" class="form-control" id="Titlu" name="Titlu" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="marca" class="form-label">marca</label>
+                                    <input type="text" class="form-control" id="marca" name="marca" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="model" class="form-label">model</label>
+                                    <input type="text" class="form-control" id="model" name="model" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="an" class="form-label">an</label>
+                                    <input type="number" class="form-control" id="an" name="an" step="0.01" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="engine" class="form-label">Motorizare</label>
+                                    <input type="number" class="form-control" id="engine" name="motorizare" step="0.01" required>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label for="fuel" class="form-label">fuel</label>
+                                    <input type="text" class="form-control" id="fuel" name="fuel" required>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label for="Imagine_1" class="form-label">Imagine nr 1</label>
+                                    <input class="form-control" type="file" id="Imagine_1" name="Imagine_1" accept="image/*" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="Imagine_2" class="form-label">Imagine nr 2</label>
+                                    <input class="form-control" type="file" id="Imagine_2" name="Imagine_2" accept="image/*" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="Imagine_3" class="form-label">Imagine nr 3</label>
+                                    <input class="form-control" type="file" id="Imagine_3" name="Imagine_3" accept="image/*" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="Imagine_4" class="form-label">Imagine nr 4</label>
+                                    <input class="form-control" type="file" id="Imagine_4" name="Imagine_4" accept="image/*" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="Imagine_5" class="form-label">Imagine nr 5</label>
+                                    <input class="form-control" type="file" id="Imagine_5" name="Imagine_5" accept="image/*" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="Descriere" class="form-label">Descriere</label>
+                                    <textarea class="form-control" id="Descriere" name="Descriere" rows="3" required></textarea>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="Pret" class="form-label">Preț</label>
+                                    <input type="number" class="form-control" id="Pret" name="Pret" step="0.01" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="phone" class="form-label">phone</label>
+                                    <input type="number" class="form-control" id="phone" name="phone" step="0.01" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="Location" class="form-label">Locatie</label>
+                                    <textarea class="form-control" id="Location" name="Location" rows="3" required></textarea>
+                                </div>
+
+
+
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Anulează</button>
+                                <button type="submit" class="btn btn-success">Salvează</button>
+                            </div>
+                      
+                    </div>
+                </div>
+            </div>
+        }
+        </div>
+        
+</div>
