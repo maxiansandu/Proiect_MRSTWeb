@@ -1,4 +1,5 @@
 ﻿using eUseControl.BussinesLogic.DBModel.Seed;
+using eUseControl.BussinesLogic.Interfaces;
 using eUseControl.Domain.Entities.User;
 using System.Collections.Generic;
 using System.Linq;
@@ -108,6 +109,48 @@ namespace eUseControl.BussinesLogic.Core
                     Message = "Înregistrare reușită!"
                 };
             }
+        }
+
+
+        public List<PostTable> getMyPosts(ULoginData data, string username) {
+
+           
+
+
+            using (var db = new UserContext()) { 
+
+              
+           
+                
+                    return db.PostTables.Where(p => p.author == username.ToString()).ToList();
+                
+                }
+
+               
+            
+            
+        
+        
+        }
+
+
+        public bool Delete_Post(int ad_id)
+        {
+
+        
+                
+
+            using (var db = new UserContext()) {
+
+                var post = db.PostTables.FirstOrDefault(p => p.Id == ad_id);
+
+                db.PostTables.Remove(post);
+                db.SaveChanges();
+
+            }
+
+
+            return true;
         }
     }
 }

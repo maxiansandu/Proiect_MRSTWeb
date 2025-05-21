@@ -4,38 +4,147 @@
     ViewBag.sharedbody = "carsBody";
 }
 
-<h2>Details</h2
-
-<div>
-    <p style="color:white; font-size:40px; margin-top:-30px"> @Model.Titlu</p>
-    <div>
-        <img src="@Model.img_1" style="width: 250px; height: 250px; margin: 2px;" />
-        <img src="@Model.img_2" style="width: 250px; height: 250px; margin: 2px;" />
-        <img src="@Model.img_3" style="width: 250px; height: 250px; margin: 2px;" />
-        <img src="@Model.img_4" style="width: 250px; height: 250px; margin: 2px;" />
-        <img src="@Model.img_5" style="width: 250px; height: 250px; margin: 2px;" />
+<h2>
+    Details
+</h2>
 
 
-    </div>
-    <div style="border: 2px,solid; border-color: rgb(5,130,255); background-color: rgba(0,0,0,0.7); width: 1300px;">
-        <div style="background-color:rgba(0,0,0,0.7); width: 300px;height:350px; margin-left: 900px; margin-top: 20px; position:relative">
-           <p  style="color:white; font-size:35px">  Specificatii</p>
-            <p style="color:white; font-size:25px">> Marca: @Model.Marca</p>
-            <p style="color:white; font-size:25px">> Model: @Model.model</p>
-            <p style="color:white; font-size:25px">> An de fabricatie: @Model.an</p>
-            <p style="color:white; font-size:25px">> Capacitate cilindrica @Model.engine</p>
-            <p style="color:white; font-size:25px">> Tip convustibil @Model.fuel</p>
-        </div>
-        <div style="background-color:rgba(0,0,0,0.7); width:700px; margin-top:-347px; position: absolute;">
-            <p  style="color:white; font-size:35px">Descriere:</p>
-            <p style="color:white; font-size:25px">@Model.description</p>
-        </div>
-        <div style="position:relative; background-color:rgba(0,0,0,0.7); width:700px; margin-top:-70px;">
-            <p style="color:white; font-size:25px">Pret @Model.price €</p>
-            <p style="color:white; font-size:25px">Proprietar: @Model.author</p>
-            <p style="color:white; font-size:25px">Contact: @Model.phone</p>
-            <p style="color:white; font-size:25px">Locatie @Model.location</p>
-        </div>
-    </div>
+
+
+<div class="thumbnails">
+    <img src="@Model.img_1" onclick="oppen_lightbox(0)" style="width:240px; height:220px" />
+    <img src="@Model.img_2" onclick="oppen_lightbox(1)" style="width:240px; height:220px" />
+    @if (!string.IsNullOrEmpty(Model.img_3))
+    {
+        <img src="@Model.img_3" onclick="oppen_lightbox(2)" style="width:240px; height:220px" />
+    }
+        @if (!string.IsNullOrEmpty(Model.img_4))
+        {
+            <img src="@Model.img_4" onclick="oppen_lightbox(3)" style="width:240px; height:220px" />
+        }
+        @if (!string.IsNullOrEmpty(Model.img_5))
+        {
+            <img src="@Model.img_5" onclick="oppen_lightbox(4)" style="width:240px; height:220px" id="img_5" />
+        }
     </div>
 
+<!-- Modal pentru mărire -->
+
+
+<div id="lightbox" class="lightbox" style="display:none;">
+    <span class="close" onclick="closeLightbox()">&times;</span>
+    <img id="lightbox-image" class="lightbox-content" />
+    <a class="prev" onclick="changeImage(-1)">&#10094;</a>
+    <a class="next" onclick="changeImage(1)">&#10095;</a>
+</div>
+
+
+<div style="border: 2px,solid; border-color: rgb(5,130,255); background-color: rgba(0,0,0,0.7); width: 1300px;">
+    <div style="background-color:rgba(0,0,0,0.7); width: 300px;height:350px; margin-left: 900px; margin-top: 20px; position:relative">
+        <p style="color:white; font-size:35px">  Specificatii</p>
+        <p style="color:white; font-size:25px">> Marca: @Model.Marca</p>
+        <p style="color:white; font-size:25px">> Model: @Model.model</p>
+        <p style="color:white; font-size:25px">> An de fabricatie: @Model.an</p>
+        <p style="color:white; font-size:25px">> Capacitate cilindrica @Model.engine</p>
+        <p style="color:white; font-size:25px">> Tip convustibil @Model.fuel</p>
+    </div>
+    <div style="background-color:rgba(0,0,0,0.7); width:700px; margin-top:-347px; position: absolute;">
+        <p style="color:white; font-size:35px">Descriere:</p>
+        <p style="color:white; font-size:25px">@Model.description</p>
+    </div>
+    <div style="position:relative; background-color:rgba(0,0,0,0.7); width:700px; margin-top:-70px;">
+        <p style="color:white; font-size:25px">Pret @Model.price €</p>
+        <p style="color:white; font-size:25px">Proprietar: @Model.author</p>
+        <p style="color:white; font-size:25px">Contact: @Model.phone</p>
+        <p style="color:white; font-size:25px">Locatie @Model.location</p>
+    </div>
+</div>
+
+
+<script>
+
+   let images = [
+
+   "@Model.img_1",
+   "@Model.img_2",
+   "@Model.img_3",
+   "@Model.img_4",
+   "@Model.img_5"
+
+
+
+    ];
+
+    let curentIndex=0;
+
+    function oppen_lightbox(index) {
+
+
+        let curentIndex = index
+        document.getElementById("lightbox").style.display="flex";
+
+
+
+        document.getElementById("lightbox-image").src = images[curentIndex];
+
+    }
+
+
+    function closeLightbox() {
+
+        document.getElementById("lightbox").style.display = "none";
+
+    }
+
+
+    function changeImage(step) {
+
+
+        curentIndex = (curentIndex + step + images.length) % images.length;
+        console.log( curentIndex);
+        document.getElementById("lightbox-image").src = images[curentIndex];
+
+
+
+
+    }
+
+    document.addEventListener("keydown", function (e) {
+
+        if (document.getElementById("lightbox").style.display === "flex") {
+
+
+            if (e.key === "ArrowLeft") {
+                changeImage(-1);
+            }
+            else if (e.key === "ArrowRight") {
+
+                changeImage(1);
+            }
+            else if (e.key === "Escape") {
+
+                closeLightbox();
+            }
+
+
+
+        }
+    });
+
+
+    function isImage() {
+
+        if (document.getElementById("img_5").src === null) {
+
+            document.getElementById("img_5").style.display="none"
+
+        }
+    }
+
+
+
+
+
+
+
+</script>

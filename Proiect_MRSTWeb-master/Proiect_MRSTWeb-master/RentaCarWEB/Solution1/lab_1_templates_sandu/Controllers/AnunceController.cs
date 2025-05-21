@@ -19,7 +19,32 @@ namespace eUseControl.Web.Controllers
         [SessionValidation]
         public ActionResult eAnunce()
         {
-            return View();
+
+            var api = new UserApi();
+            var data = new ULoginData();
+            String user = Session["Username"].ToString();
+
+            var anunturi = api.getMyPosts(data,user);
+
+            var viewlist = anunturi.Select(p => new AnunceModel
+            {
+
+                id = p.Id,
+                img_1 = p.img_1,
+                Titlu = p.Title,
+
+
+
+
+
+            }).ToList();
+
+
+
+
+            return View(viewlist);
+
+           
         }
 
         [HttpPost]
@@ -159,19 +184,33 @@ namespace eUseControl.Web.Controllers
 
 
             var api = new UserApi();
+
             api.adAnunce(anuncebl);
 
-            var anunturi = api.get_posts();
 
 
 
+            return Redirect("http://localhost:49932/Anunce/eAnunce");
+        }
 
 
+        [HttpPost]
 
-            return RedirectToAction("Index", "Home");
+        public ActionResult DeleteAd(int id)
+        {
+
+            var api = new UserApi();
+
+            int user_id = id;
+
+            api.Delete_Post(id);
+            return Redirect("http://localhost:49932/Anunce/eAnunce");
         }
 
 
        
+
+
+
     }
 }
