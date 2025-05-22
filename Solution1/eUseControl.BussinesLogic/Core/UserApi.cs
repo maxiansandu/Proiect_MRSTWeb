@@ -7,6 +7,31 @@ namespace eUseControl.BussinesLogic.Core
 {
     public class UserApi
     {
+        public LoginResult LoginUser(ULoginData data)
+        {
+            using (var db = new UserContext())
+            {
+                var user = db.Users.FirstOrDefault(u =>
+                    (u.username == data.Username || u.email == data.Username)
+                    && u.password == data.Password);
+
+                if (user == null)
+                {
+                    return new LoginResult
+                    {
+                        Status = false,
+                        Message = "Username/email sau parolă incorectă."
+                    };
+                }
+
+                return new LoginResult
+                {
+                    Status = true,
+                    Message = "Autentificare reușită.",
+                    User = user
+                };
+            }
+        }
         public RegisterResult RegisterUser(ULoginData data)
         {
             using (var db = new UserContext())
@@ -26,7 +51,7 @@ namespace eUseControl.BussinesLogic.Core
                 {
                     username = data.Username,
                     password = data.Password,
-                    email = data.Email,
+                    email = data.Email // trebuie să adaugi și Email în ULoginData
                 };
 
                 db.Users.Add(newUser);

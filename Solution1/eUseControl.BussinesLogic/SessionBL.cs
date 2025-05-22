@@ -4,23 +4,41 @@ using eUseControl.BussinesLogic.Interfaces;
 using eUseControl.Domain.Entities.User;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace eUseControl.BussinesLogic
 {
-    public class SessionBL : ISession
+    public class SessionBL
     {
-        private readonly string validUsername = "admin";
-        private readonly string validPassword = "1234";
-   
+        private readonly UserApi _userApi = new UserApi();
+
         public bool Login(string username, string password, string email)
         {
-            return username == validUsername && password == validPassword;
+            var result = LoginWithResult(username, password);
+            return result.Status;
+        }
 
+        public LoginResult LoginWithResult(string username, string password)
+        {
+            var loginData = new ULoginData
+            {
+                Username = username,
+                Password = password
+            };
 
+            var result = _userApi.LoginUser(loginData); // Verificare în DB
+
+            if (result.Status)
+            {
+                // Setăm rolul în funcție de username
+                var role = (password == "admin") ? "admin" : "user";
+
+                result.Role = role; // presupunem că ai o proprietate Role în modelul User
+            }
+
+            return result;
         }
 
         public bool RegisterUser(ULoginData data, out string message)
@@ -37,8 +55,7 @@ namespace eUseControl.BussinesLogic
                 var newUser = new UDBTable
                 {
                     username = data.Username,  // Modifică "Username" în "username"
-                    password = data.Password,  // Modifică "Password" în "password"
-                    email = data.Email,
+                    password = data.Password   // Modifică "Password" în "password"
                 };
 
                 db.Users.Add(newUser);
@@ -50,4 +67,3 @@ namespace eUseControl.BussinesLogic
         }
     }
 }
-

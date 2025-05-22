@@ -23,23 +23,27 @@
                 @placeholder = "Alege o parolă"
             })
         </div>
-        <div class="mb-3">
-            <label for="confirmPassword" class="form-label" style="color: rgb(52, 207, 235);">Confirmă parola</label>
-            <input type="password" name="confirmPassword" class="form-control" id="confirmPassword" placeholder="Reintrodu parola" required />
-        </div>
-        <div class="mb-3">
+        <div class="form-group">
             <label for="email" class="form-label" style="color: rgb(52, 207, 235);">Email</label>
             @Html.TextBoxFor(model => model.email, new
             {
                 @class = "form-control",
                 @id = "email",
-                @placeholder = "Alege un Email"
+                @placeholder = "Introduceți adresa de email"
             })
-            <button type="submit" class="btn btn-success w-100">Înregistrare</button>
-         </div>
-            <div class="text-center mt-3">
-                <a href="@Url.Action("UserLogPage", "LogPage")" class="text-info">Ai deja un cont? Autentifică-te</a>
-            </div>
+            @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="mb-3">
+            <label for="confirmPassword" class="form-label" style="color: rgb(52, 207, 235);">Confirmă parola</label>
+            <input type="password" name="confirmPassword" class="form-control" id="confirmPassword" placeholder="Reintrodu parola" required />
+        </div>
+
+        <button type="submit" class="btn btn-success w-100">Înregistrare</button>
+
+        <div class="text-center mt-3">
+            <a href="@Url.Action("UserLogPage", "LogPage")" class="text-info">Ai deja un cont? Autentifică-te</a>
+        </div>
     </form>
 
     @if (!string.IsNullOrEmpty(ViewBag.Message as string))

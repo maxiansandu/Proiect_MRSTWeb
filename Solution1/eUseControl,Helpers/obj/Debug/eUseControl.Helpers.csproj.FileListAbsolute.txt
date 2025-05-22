@@ -22,3 +22,9 @@ C:\Users\User\Desktop\DataBase\Proiect_MRSTWeb\Proiect_MRSTWeb\Proiect_MRSTWeb-m
 C:\Users\User\Desktop\DataBase\Proiect_MRSTWeb\Proiect_MRSTWeb\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl,Helpers\obj\Debug\eUseControl.Helpers.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\DataBase\Proiect_MRSTWeb\Proiect_MRSTWeb\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl,Helpers\obj\Debug\eUseControl,Helpers.dll
 C:\Users\User\Desktop\DataBase\Proiect_MRSTWeb\Proiect_MRSTWeb\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl,Helpers\obj\Debug\eUseControl,Helpers.pdb
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl,Helpers\bin\Debug\eUseControl,Helpers.dll
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl,Helpers\bin\Debug\eUseControl,Helpers.pdb
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl,Helpers\obj\Debug\eUseControl.Helpers.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl,Helpers\obj\Debug\eUseControl.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl,Helpers\obj\Debug\eUseControl,Helpers.dll
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl,Helpers\obj\Debug\eUseControl,Helpers.pdb

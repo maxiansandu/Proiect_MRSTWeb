@@ -49,3 +49,17 @@ C:\Users\User\Desktop\DataBase\Proiect_MRSTWeb\Proiect_MRSTWeb\Proiect_MRSTWeb-m
 C:\Users\User\Desktop\DataBase\Proiect_MRSTWeb\Proiect_MRSTWeb\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.Domain\obj\Debug\eUseCont.610CB305.Up2Date
 C:\Users\User\Desktop\DataBase\Proiect_MRSTWeb\Proiect_MRSTWeb\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.Domain\obj\Debug\eUseControl.Domain.dll
 C:\Users\User\Desktop\DataBase\Proiect_MRSTWeb\Proiect_MRSTWeb\Proiect_MRSTWeb-master\Proiect_MRSTWeb-master\RentaCarWEB\Solution1\eUseControl.Domain\obj\Debug\eUseControl.Domain.pdb
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\bin\Debug\eUseControl.Domain.dll.config
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\bin\Debug\eUseControl.Domain.dll
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\bin\Debug\eUseControl.Domain.pdb
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\bin\Debug\eUseControl,Helpers.dll
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\bin\Debug\eUseControl,Helpers.pdb
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\obj\Debug\eUseControl.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\obj\Debug\eUseControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\obj\Debug\eUseCont.610CB305.Up2Date
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\obj\Debug\eUseControl.Domain.dll
+C:\Users\User\Desktop\DataBase\Solution1\eUseControl.Domain\obj\Debug\eUseControl.Domain.pdb
