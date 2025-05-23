@@ -189,6 +189,7 @@
     <Compile Include="Controllers\AnunceController.cs" />
     <Compile Include="Controllers\CarsController.cs" />
     <Compile Include="Controllers\ContController.cs" />
+    <Compile Include="Controllers\FavoriteController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LogPageController.cs" />
     <Compile Include="Global.asax.cs">
@@ -196,6 +197,7 @@
     </Compile>
     <Compile Include="Models\AnunceModel.cs" />
     <Compile Include="Models\carModell.cs" />
+    <Compile Include="Models\Favorite_ad.cs" />
     <Compile Include="Models\RegisterViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -239,6 +241,7 @@
     <Content Include="Views\Cars\eCars.cshtml" />
     <Content Include="Views\Anunce\eAnunce.cshtml" />
     <Content Include="Views\Cars\Details.cshtml" />
+    <Content Include="Views\Favorites\FavoritPage.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

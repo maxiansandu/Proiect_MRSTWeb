@@ -20,6 +20,7 @@ namespace eUseControl.BussinesLogic.DBModel.Seed
 
         public DbSet<PostTable> PostTables { get; set; }
 
+        public DbSet<Favorite> Favorites { get; set; }
         public UserContext() : base("name=TWEB") // Folosește numele din connection string
         {
         }

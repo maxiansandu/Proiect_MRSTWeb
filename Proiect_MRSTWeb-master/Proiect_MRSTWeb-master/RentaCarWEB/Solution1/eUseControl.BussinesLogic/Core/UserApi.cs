@@ -4,6 +4,7 @@ using eUseControl.Domain.Entities.User;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace eUseControl.BussinesLogic.Core
 {
@@ -151,6 +152,101 @@ namespace eUseControl.BussinesLogic.Core
 
 
             return true;
+        }
+
+        public bool check_if_favorite_ad_exist(Favorite ad)
+        {
+            using (var db = new UserContext()) {
+
+
+                var result = new Favorite();
+
+                result = db.Favorites.FirstOrDefault(
+
+                    p => p.ad_id == ad.ad_id && p.author == ad.author
+
+
+                    );
+
+                if (result == null) {
+
+                    return true;
+                
+                
+                }
+            }
+
+
+            return false;
+        }
+
+
+        public bool ad_to_favorites(Favorite ad)
+        {
+            using (var db = new UserContext()) { 
+            
+            if (check_if_favorite_ad_exist(ad)){
+                    db.Favorites.Add(ad);
+                    db.SaveChanges();
+
+                }
+           
+            
+            
+            }
+            return true;
+
+        }
+
+
+        public List<PostTable> my_favorites(string username) {
+
+      
+
+
+            using (var db = new UserContext()) {
+
+
+                var favoritePostIds = db.Favorites
+              .Where(f => f.author == username)
+              .Select(f => f.ad_id)
+              .ToList();
+
+                // Pasul 2: Ia postările corespunzătoare din PostTables
+                var favoritePosts = db.PostTables
+                    .Where(p => favoritePostIds.Contains(p.Id))
+                    .ToList();
+
+                return favoritePosts;
+
+            }
+        
+        
+        }
+
+
+        public bool delete_fav_ad(int ad_id) {
+
+
+            using (var db = new UserContext()) {
+
+                var post = new Favorite();
+
+               
+
+              post = db.Favorites.FirstOrDefault(p => p.ad_id == ad_id);
+
+                db.Favorites.Remove(post);
+                db.SaveChanges();
+
+                return true;
+            
+            }
+
+           
+        
+        
+        
         }
     }
 }

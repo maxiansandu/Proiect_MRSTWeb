@@ -101,6 +101,18 @@
     <Compile Include="Migrations\202505180329013_InitialCreate9.Designer.cs">
       <DependentUpon>202505180329013_InitialCreate9.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202505212239188_InitialCreate10.cs" />
+    <Compile Include="Migrations\202505212239188_InitialCreate10.Designer.cs">
+      <DependentUpon>202505212239188_InitialCreate10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202505212320214_InitialCreate11.cs" />
+    <Compile Include="Migrations\202505212320214_InitialCreate11.Designer.cs">
+      <DependentUpon>202505212320214_InitialCreate11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202505212322186_InitialCreate12.cs" />
+    <Compile Include="Migrations\202505212322186_InitialCreate12.Designer.cs">
+      <DependentUpon>202505212322186_InitialCreate12.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SessionBL.cs" />
@@ -141,6 +153,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202505180329013_InitialCreate9.resx">
       <DependentUpon>202505180329013_InitialCreate9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202505212239188_InitialCreate10.resx">
+      <DependentUpon>202505212239188_InitialCreate10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202505212320214_InitialCreate11.resx">
+      <DependentUpon>202505212320214_InitialCreate11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202505212322186_InitialCreate12.resx">
+      <DependentUpon>202505212322186_InitialCreate12.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

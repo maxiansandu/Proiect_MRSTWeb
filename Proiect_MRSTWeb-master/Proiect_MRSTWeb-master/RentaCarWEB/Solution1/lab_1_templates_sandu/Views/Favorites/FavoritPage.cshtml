@@ -1,0 +1,40 @@
+﻿@model List<eUseControl.Web.Models.AnunceModel>
+@{
+    ViewBag.Title = "FavoriPage";
+}
+
+<h2>FavoritPage</h2>
+
+
+@if (ViewBag.Message != null)
+{
+    <p style="color: lightgray; font-size: 20px;">@ViewBag.Message</p>
+}
+
+else { 
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+        @foreach (var item in @Model)
+        {
+            <div style=" padding: 10px; width: 230px; height:230px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+                <a href="@Url.Action("Details","Cars", new {id=item.id})">
+                    <img src="@item.img_1" alt="imagine" style="width: 100%; height: 200px; border-radius: 8px;" />
+                </a>
+                <p style="color:white;">@item.Titlu</p>
+
+                @using (Html.BeginForm("DeleteFavorite", "Favorites", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    @Html.Hidden("id", item.id)
+
+                    <button style="background-color:red;" type="submit" class="btn btn-danger">
+                        Șterge anunț
+                    </button>
+                }
+            </div>
+          
+        }
+    </div>
+</div>
+}
