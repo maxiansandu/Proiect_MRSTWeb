@@ -154,6 +154,35 @@ namespace eUseControl.BussinesLogic.Core
             return true;
         }
 
+
+        public bool check_if_favorite_ad_exist_action(Favorite ad)
+        {
+            using (var db = new UserContext())
+            {
+
+
+                var result = new Favorite();
+
+                result = db.Favorites.FirstOrDefault(
+
+                    p => p.ad_id == ad.ad_id && p.author == ad.author
+
+
+                    );
+
+                if (result == null)
+                {
+
+                    return true;
+
+
+                }
+            }
+
+
+            return false;
+        }
+
         public bool check_if_favorite_ad_exist(Favorite ad)
         {
             using (var db = new UserContext()) {
@@ -181,7 +210,7 @@ namespace eUseControl.BussinesLogic.Core
         }
 
 
-        public bool ad_to_favorites(Favorite ad)
+        public bool ad_to_favorites_action(Favorite ad)
         {
             using (var db = new UserContext()) { 
             

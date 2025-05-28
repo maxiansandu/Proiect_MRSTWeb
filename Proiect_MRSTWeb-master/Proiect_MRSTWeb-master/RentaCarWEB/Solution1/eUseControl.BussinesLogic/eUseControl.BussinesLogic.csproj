@@ -60,6 +60,7 @@
     <Compile Include="Core\AdminAPi.cs" />
     <Compile Include="Core\UserApi.cs" />
     <Compile Include="DBModel\Seed\UserContext.cs" />
+    <Compile Include="Interfaces\IFavorite.cs" />
     <Compile Include="Interfaces\ISession.cs" />
     <Compile Include="Migrations\202504071114455_InitialCreate.cs" />
     <Compile Include="Migrations\202504071114455_InitialCreate.Designer.cs">

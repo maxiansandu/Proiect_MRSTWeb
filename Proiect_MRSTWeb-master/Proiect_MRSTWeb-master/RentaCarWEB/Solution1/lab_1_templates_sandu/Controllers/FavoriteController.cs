@@ -1,17 +1,29 @@
-﻿using eUseControl.BussinesLogic.Core;
+﻿
+using eUseControl.BussinesLogic.Core;
+using eUseControl.BussinesLogic.Interfaces;
 using eUseControl.Domain.Entities.User;
 using eUseControl.Helpers.Filters;
 using eUseControl.Web.Models;
 using System;
 using System.Collections.Generic;
+using System.Drawing.Text;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+
+using eUseControl.BussinesLogic;
 
 namespace eUseControl.Web.Controllers
 {
     public class FavoritesController : Controller
     {
+
+        private readonly IFavorite _FavoriteService;
+
+        public FavoritesController()
+        {
+            _FavoriteService = new BL().GetFavoriteService();
+        }
         // GET: Favorites
         [SessionValidation]
         public ActionResult FavoritPage()
@@ -70,10 +82,15 @@ namespace eUseControl.Web.Controllers
             fav_ad.author = Session["username"].ToString();
 
 
-            var api = new UserApi();
+         
+
+            
 
 
-            api.ad_to_favorites(fav_ad);
+      
+
+
+            _FavoriteService.ad_to_favorites(fav_ad);
 
 
 
