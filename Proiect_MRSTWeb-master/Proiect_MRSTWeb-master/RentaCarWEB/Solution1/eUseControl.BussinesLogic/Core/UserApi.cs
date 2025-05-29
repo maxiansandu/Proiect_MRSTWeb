@@ -11,7 +11,7 @@ namespace eUseControl.BussinesLogic.Core
     public class UserApi
     {
 
-        public bool adAnunce(PostTable postTable)
+        internal bool adAnunce_action(PostTable postTable)
         {
 
             try
@@ -35,7 +35,7 @@ namespace eUseControl.BussinesLogic.Core
         }
 
 
-        public List<PostTable> get_posts() {
+        internal List<PostTable> get_posts_action() {
 
 
             using (var db = new UserContext()) { 
@@ -51,7 +51,7 @@ namespace eUseControl.BussinesLogic.Core
         }
 
       
-        public LoginResult LoginUser(ULoginData data)
+        public LoginResult LoginUser_action(ULoginData data)
         {
             using (var db = new UserContext())
             {
@@ -79,7 +79,7 @@ namespace eUseControl.BussinesLogic.Core
 
        
 
-        public RegisterResult RegisterUser(ULoginData data)
+        public RegisterResult RegisterUser_action(ULoginData data)
         {
             using (var db = new UserContext())
             {
@@ -113,7 +113,7 @@ namespace eUseControl.BussinesLogic.Core
         }
 
 
-        public List<PostTable> getMyPosts(ULoginData data, string username) {
+        public List<PostTable> getMyPosts_action(ULoginData data, string username) {
 
            
 
@@ -135,7 +135,7 @@ namespace eUseControl.BussinesLogic.Core
         }
 
 
-        public bool Delete_Post(int ad_id)
+        internal bool Delete_Post_action(int ad_id)
         {
 
         
@@ -155,35 +155,9 @@ namespace eUseControl.BussinesLogic.Core
         }
 
 
-        public bool check_if_favorite_ad_exist_action(Favorite ad)
-        {
-            using (var db = new UserContext())
-            {
+       
 
-
-                var result = new Favorite();
-
-                result = db.Favorites.FirstOrDefault(
-
-                    p => p.ad_id == ad.ad_id && p.author == ad.author
-
-
-                    );
-
-                if (result == null)
-                {
-
-                    return true;
-
-
-                }
-            }
-
-
-            return false;
-        }
-
-        public bool check_if_favorite_ad_exist(Favorite ad)
+        internal bool check_if_favorite_ad_exist(Favorite ad)
         {
             using (var db = new UserContext()) {
 
@@ -210,7 +184,7 @@ namespace eUseControl.BussinesLogic.Core
         }
 
 
-        public bool ad_to_favorites_action(Favorite ad)
+        internal bool ad_to_favorites_action(Favorite ad)
         {
             using (var db = new UserContext()) { 
             
@@ -228,7 +202,7 @@ namespace eUseControl.BussinesLogic.Core
         }
 
 
-        public List<PostTable> my_favorites(string username) {
+        internal List<PostTable> my_favorites_action(string username) {
 
       
 
@@ -254,7 +228,7 @@ namespace eUseControl.BussinesLogic.Core
         }
 
 
-        public bool delete_fav_ad(int ad_id) {
+        internal bool delete_fav_ad_action(int ad_id) {
 
 
             using (var db = new UserContext()) {
@@ -276,6 +250,18 @@ namespace eUseControl.BussinesLogic.Core
         
         
         
+        }
+
+        internal bool SaveSession_action(UserSession data)
+        {
+
+            using (var db = new UserContext())
+            {
+                db.UserSessions.Add(data);
+                db.SaveChanges();
+            }
+
+            return true;
         }
     }
 }

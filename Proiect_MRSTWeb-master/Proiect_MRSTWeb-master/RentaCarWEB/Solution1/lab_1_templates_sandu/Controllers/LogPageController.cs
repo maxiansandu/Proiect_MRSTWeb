@@ -15,6 +15,13 @@ namespace eUseControl.Web.Controllers
 {
     public class LogPageController : Controller
     {
+
+        private readonly ISession _session;
+
+        public LogPageController()
+        {
+            _session = new BL().GetSession();
+        }
         // GET: Login
         public ActionResult UserLogPage()
         {
@@ -26,8 +33,7 @@ namespace eUseControl.Web.Controllers
             return View();
         }
 
-        private readonly SessionBL _session = new SessionBL();
-
+      
 
         
         [HttpPost]
@@ -35,12 +41,18 @@ namespace eUseControl.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                var loginResult = _session.LoginWithResult(model.username, model.password);
+                var loginResult =new LoginResult();
+                var data =new ULoginData();
+                data.Username = model.username;
+                data.Password =model.password;
+                
+                loginResult = _session.LoginUser(data);
                 if (loginResult.Status)
                 {
                     Session["Username"] = loginResult.User.username;
                     Session["Email"] = loginResult.User.email;
                     Session["Role"] = loginResult.Role;
+
                     var token = Guid.NewGuid().ToString();
                     var newSession = new UserSession
                     {
@@ -52,11 +64,8 @@ namespace eUseControl.Web.Controllers
                         ExpiresAt = DateTime.Now.AddMinutes(30)  // Setează timpul de expirare pentru sesiune
                     };
 
-                    using (var db = new UserContext())
-                    {
-                        db.UserSessions.Add(newSession);
-                        db.SaveChanges();
-                    }
+                    _session.SaveSession(newSession);
+                   
 
                     var cookie = new HttpCookie("AuthToken", token)
                     {
@@ -144,6 +153,8 @@ namespace eUseControl.Web.Controllers
 
         private readonly UserApi _userApi = new UserApi();
 
+        
+
         [HttpPost]
         public ActionResult Register(RegisterViewModel model)
         {
@@ -160,7 +171,10 @@ namespace eUseControl.Web.Controllers
                 Email = model.email
             };
 
-            var result = _userApi.RegisterUser(userData);
+
+
+            
+           var result = _session.RegisterUser(userData);
 
             if (!result.Status)
             {

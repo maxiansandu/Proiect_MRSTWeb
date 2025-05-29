@@ -1,4 +1,6 @@
-﻿using eUseControl.BussinesLogic.Core;
+﻿using eUseControl.BussinesLogic;
+using eUseControl.BussinesLogic.Core;
+using eUseControl.BussinesLogic.Interfaces;
 using eUseControl.Domain.Entities.User;
 using eUseControl.Helpers.Filters;
 using eUseControl.Web.Models;
@@ -11,10 +13,24 @@ using System.Web;
 using System.Web.Mvc;
 
 
+
 namespace eUseControl.Web.Controllers
 {
     public class AnunceController : Controller
     {
+
+        private readonly IPosts _Posts;
+
+
+
+        public AnunceController()
+        {
+
+            _Posts = new BL().GetPostsService();
+
+        }
+
+       
         // GET: Anunce
         [SessionValidation]
         public ActionResult eAnunce()
@@ -24,7 +40,7 @@ namespace eUseControl.Web.Controllers
             var data = new ULoginData();
             String user = Session["Username"].ToString();
 
-            var anunturi = api.getMyPosts(data,user);
+            var anunturi = _Posts.getMyPosts(data,user);
 
             var viewlist = anunturi.Select(p => new AnunceModel
             {
@@ -185,7 +201,7 @@ namespace eUseControl.Web.Controllers
 
             var api = new UserApi();
 
-            api.adAnunce(anuncebl);
+            _Posts.adAnunce(anuncebl);
 
 
 
@@ -203,7 +219,7 @@ namespace eUseControl.Web.Controllers
 
             int user_id = id;
 
-            api.Delete_Post(id);
+            _Posts.Delete_Post(id);
             return Redirect("http://localhost:49932/Anunce/eAnunce");
         }
 

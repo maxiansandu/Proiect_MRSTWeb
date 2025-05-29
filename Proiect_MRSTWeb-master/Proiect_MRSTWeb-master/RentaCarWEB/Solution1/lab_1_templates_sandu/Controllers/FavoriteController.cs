@@ -32,7 +32,7 @@ namespace eUseControl.Web.Controllers
             string username = Session["username"].ToString();
             var api = new UserApi();
 
-            var view_fav = api.my_favorites(username);
+            var view_fav = _FavoriteService.my_favorites(username);
 
             if (view_fav == null){
 
@@ -110,7 +110,7 @@ namespace eUseControl.Web.Controllers
             var api = new UserApi();
             
 
-            api.delete_fav_ad(id);
+            _FavoriteService.delete_fav_ad(id);
 
 
 

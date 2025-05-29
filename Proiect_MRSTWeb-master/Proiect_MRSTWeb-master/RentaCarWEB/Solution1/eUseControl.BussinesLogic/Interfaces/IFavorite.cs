@@ -15,9 +15,11 @@ namespace eUseControl.BussinesLogic.Interfaces
          bool ad_to_favorites(Favorite ad);
 
 
-      //  List<PostTable> my_favorites(string username);
+        List<PostTable> my_favorites(string username);
 
-       // bool delete_fav_ad(int ad_id);
+
+
+        bool delete_fav_ad(int ad_id);
 
 
     }

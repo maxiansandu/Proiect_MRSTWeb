@@ -7,13 +7,16 @@ using System.Threading.Tasks;
 
 namespace eUseControl.BussinesLogic.Interfaces
 {
-    public interface ISession
+    public interface IPosts
     {
-        LoginResult LoginUser(ULoginData data);
-        RegisterResult RegisterUser(ULoginData data);
+        bool adAnunce(PostTable postTable);
+
+         List<PostTable> get_posts();
 
 
-        bool SaveSession(UserSession data);
 
+        List<PostTable> getMyPosts(ULoginData data, string username);
+
+        bool Delete_Post(int ad_id);
     }
 }

@@ -1,4 +1,6 @@
-﻿using eUseControl.BussinesLogic.Core;
+﻿using eUseControl.BussinesLogic;
+using eUseControl.BussinesLogic.Core;
+using eUseControl.BussinesLogic.Interfaces;
 using eUseControl.Web.Models;
 using System;
 using System.Collections.Generic;
@@ -11,10 +13,17 @@ namespace eUseControl.Web.Controllers
     public class CarsController : Controller
     {
         // GET: Cars
+
+        private readonly IPosts _posts;
+
+        public CarsController()
+        {
+            _posts =new BL().GetPostsService();
+        }
         public ActionResult eCars()
         {
             var api = new UserApi();
-            var carLiast = api.get_posts();
+            var carLiast = _posts.get_posts();
             
            var viewlist = carLiast.Select(p => new AnunceModel
             {
@@ -40,7 +49,7 @@ namespace eUseControl.Web.Controllers
 
 
             var api = new UserApi();
-            var post = api.get_posts().FirstOrDefault(p => p.Id == id);
+            var post = _posts.get_posts().FirstOrDefault(p => p.Id == id);
 
 
 
