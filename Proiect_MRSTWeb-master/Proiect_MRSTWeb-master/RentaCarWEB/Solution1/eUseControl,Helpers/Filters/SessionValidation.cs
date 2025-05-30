@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
-using System.Web;
 
-using eUseControl.Domain.Entities.User;
 using eUseControl.BussinesLogic.DBModel.Seed;
 using System.Web.Mvc; // unde ai UserContext
+
+
 
 namespace eUseControl.Helpers.Filters
 {
@@ -38,10 +38,36 @@ namespace eUseControl.Helpers.Filters
                         filterContext.Result = new RedirectResult("/LogPage/UserLogPage");
                         return;
                     }
+                
+
+            
+                var user = db.Users.FirstOrDefault(u => u.username == session.Username);
+                if (user != null)
+                {
+                    var httpSession = filterContext.HttpContext.Session;
+                    httpSession["Username"] = user.username;
+                    httpSession["Email"] = user.email;
+
+                    if (user.password == "admin")
+                    {
+                        httpSession["Role"] = "admin";
+
+                    }
+                    else
+                    {
+                        httpSession["Role"] = "user";
+
+                    }
+
+                  
+
                 }
 
-                // Dacă sesiunea este validă, continuă execuția acțiunii
-                base.OnActionExecuting(filterContext);
+            }
+           
+
+            // Dacă sesiunea este validă, continuă execuția acțiunii
+            base.OnActionExecuting(filterContext);
             }
         }
     }

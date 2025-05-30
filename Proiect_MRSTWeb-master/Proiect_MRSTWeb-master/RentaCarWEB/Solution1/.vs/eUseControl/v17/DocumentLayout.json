@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\controllers\\logpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eusecontrol.bussineslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eusecontrol.bussineslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\proiect_mrstweb-master\\proiect_mrstweb-master\\rentacarweb\\solution1\\lab_1_templates_sandu\\controllers\\logpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\controllers\\logpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eusecontrol.bussineslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70FD42AD-DAAF-439C-A068-663092C0D16C}|eUseControl,Helpers\\eUseControl.Helpers.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eusecontrol,helpers\\filters\\sessionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FD42AD-DAAF-439C-A068-663092C0D16C}|eUseControl,Helpers\\eUseControl.Helpers.csproj|solutionrelative:eusecontrol,helpers\\filters\\sessionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eusecontrol.bussineslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\proiect_mrstweb-master\\proiect_mrstweb-master\\rentacarweb\\solution1\\eusecontrol.bussineslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\views\\cont\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\views\\cont\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eusecontrol.bussineslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\views\\cont\\userpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\views\\cont\\userpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eusecontrol.bussineslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,7 +55,7 @@
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\controllers\\anuncecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|c:\\users\\vboxuser\\documents\\tweb_labs\\proiect_mrstweb-master\\proiect_mrstweb-master\\rentacarweb\\solution1\\eusecontrol.bussineslogic\\interfaces\\iposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eusecontrol.bussineslogic\\interfaces\\iposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\interfaces\\iposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{B0CD5199-5630-4BDD-9533-525544F0134E}|eUseControl.Domain\\eUseControl.Domain.csproj|solutionrelative:eusecontrol.domain\\entities\\user\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -77,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\views\\cars\\ecars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\views\\cars\\ecars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\models\\anuncemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,10 +147,6 @@
       "RelativeMoniker": "D:0:0:{B0CD5199-5630-4BDD-9533-525544F0134E}|eUseControl.Domain\\eUseControl.Domain.csproj|solutionrelative:eusecontrol.domain\\entities\\user\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\views\\cont\\userpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\views\\cont\\userpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\views\\logpage\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\views\\logpage\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -179,16 +187,8 @@
       "RelativeMoniker": "D:0:0:{F83723DC-9509-49FA-A06D-CDB7B712BC59}|eUseControl.BussinesLogic\\eUseControl.BussinesLogic.csproj|solutionrelative:eusecontrol.bussineslogic\\migrations\\202505161153550_initialcreate5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\views\\cont\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\views\\cont\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|solutionrelative:lab_1_templates_sandu\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70FD42AD-DAAF-439C-A068-663092C0D16C}|eUseControl,Helpers\\eUseControl.Helpers.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eusecontrol,helpers\\filters\\sessionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70FD42AD-DAAF-439C-A068-663092C0D16C}|eUseControl,Helpers\\eUseControl.Helpers.csproj|solutionrelative:eusecontrol,helpers\\filters\\sessionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FC7D261-393D-4D3B-B2AA-C3BA8C37EC1D}|lab_1_templates_sandu\\eUseControl.Web.csproj|C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -262,7 +262,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -270,59 +270,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LogPageController.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\LogPageController.cs",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\LogPageController.cs",
               "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\LogPageController.cs",
               "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\LogPageController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T07:57:26.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ISession.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
-              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
-              "RelativeToolTip": "eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T10:28:06.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BussinesLogic.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\BussinesLogic.cs",
-              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\BussinesLogic.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\BussinesLogic.cs",
-              "RelativeToolTip": "eUseControl.BussinesLogic\\BussinesLogic.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAmwGsAAAAxAAAAAAAAAA==",
+              "Title": "SessionValidation.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl,Helpers\\Filters\\SessionValidation.cs",
+              "RelativeDocumentMoniker": "eUseControl,Helpers\\Filters\\SessionValidation.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl,Helpers\\Filters\\SessionValidation.cs",
+              "RelativeToolTip": "eUseControl,Helpers\\Filters\\SessionValidation.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwC4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T19:10:38.104Z",
+              "WhenOpened": "2025-05-06T04:33:34.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserApi.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Core\\UserApi.cs",
-              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Core\\UserApi.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Core\\UserApi.cs",
-              "RelativeToolTip": "eUseControl.BussinesLogic\\Core\\UserApi.cs",
-              "ViewState": "AgIAAPcAAAAAAAAAAAAuwAUBAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:24:40.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "SessionBL.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\SessionBL.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\SessionBL.cs",
@@ -335,137 +309,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Models\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Models\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Models\\RegisterViewModel.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\Models\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BussinesLogic.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\BussinesLogic.cs",
+              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\BussinesLogic.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\BussinesLogic.cs",
+              "RelativeToolTip": "eUseControl.BussinesLogic\\BussinesLogic.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwGsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:01:24.83Z",
+              "WhenOpened": "2025-05-01T19:10:38.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegisterResult.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\RegisterResult.cs",
-              "RelativeDocumentMoniker": "eUseControl.Domain\\Entities\\User\\RegisterResult.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\RegisterResult.cs",
-              "RelativeToolTip": "eUseControl.Domain\\Entities\\User\\RegisterResult.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T14:29:52.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AnunceController.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\AnunceController.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\AnunceController.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\AnunceController.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\AnunceController.cs",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAqwN0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T06:28:53.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IPosts.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\IPosts.cs",
-              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Interfaces\\IPosts.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\IPosts.cs",
-              "RelativeToolTip": "eUseControl.BussinesLogic\\Interfaces\\IPosts.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T22:55:16.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CarsController.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\CarsController.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\CarsController.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\CarsController.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\CarsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T04:55:00.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ContController.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\ContController.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\ContController.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\ContController.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\ContController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:15:17.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "eAnunce.cshtml",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Anunce\\eAnunce.cshtml",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Anunce\\eAnunce.cshtml",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Anunce\\eAnunce.cshtml",
-              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Anunce\\eAnunce.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T06:25:51.805Z",
+              "WhenOpened": "2025-04-07T14:54:55.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FavoriteController.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\FavoriteController.cs",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\FavoriteController.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\FavoriteController.cs",
-              "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\FavoriteController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAG4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T00:55:37.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IFavorite.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\IFavorite.cs",
-              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Interfaces\\IFavorite.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\IFavorite.cs",
-              "RelativeToolTip": "eUseControl.BussinesLogic\\Interfaces\\IFavorite.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T18:59:20.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Favorite.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\Favorite.cs",
-              "RelativeDocumentMoniker": "eUseControl.Domain\\Entities\\User\\Favorite.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\Favorite.cs",
-              "RelativeToolTip": "eUseControl.Domain\\Entities\\User\\Favorite.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T22:30:45.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Home\\Index.cshtml",
@@ -478,7 +348,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Core\\UserApi.cs",
+              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Core\\UserApi.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Core\\UserApi.cs",
+              "RelativeToolTip": "eUseControl.BussinesLogic\\Core\\UserApi.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:24:40.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Cont\\AdminPage.cshtml",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Cont\\AdminPage.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Cont\\AdminPage.cshtml",
+              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Cont\\AdminPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T14:44:59.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Cont\\UserPage.cshtml",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Cont\\UserPage.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Cont\\UserPage.cshtml",
+              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Cont\\UserPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T14:11:07.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISession.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
+              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
+              "RelativeToolTip": "eUseControl.BussinesLogic\\Interfaces\\ISession.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:28:06.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:01:24.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterResult.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\RegisterResult.cs",
+              "RelativeDocumentMoniker": "eUseControl.Domain\\Entities\\User\\RegisterResult.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\RegisterResult.cs",
+              "RelativeToolTip": "eUseControl.Domain\\Entities\\User\\RegisterResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:29:52.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnunceController.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\AnunceController.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\AnunceController.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\AnunceController.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\AnunceController.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAqwN0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:28:53.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPosts.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\IPosts.cs",
+              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Interfaces\\IPosts.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\IPosts.cs",
+              "RelativeToolTip": "eUseControl.BussinesLogic\\Interfaces\\IPosts.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:55:16.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:55:00.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContController.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\ContController.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\ContController.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\ContController.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\ContController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:15:17.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "eAnunce.cshtml",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Anunce\\eAnunce.cshtml",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Anunce\\eAnunce.cshtml",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Anunce\\eAnunce.cshtml",
+              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Anunce\\eAnunce.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T06:25:51.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FavoriteController.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\FavoriteController.cs",
+              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\FavoriteController.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\FavoriteController.cs",
+              "RelativeToolTip": "lab_1_templates_sandu\\Controllers\\FavoriteController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAG4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T00:55:37.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFavorite.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\IFavorite.cs",
+              "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Interfaces\\IFavorite.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Interfaces\\IFavorite.cs",
+              "RelativeToolTip": "eUseControl.BussinesLogic\\Interfaces\\IFavorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:59:20.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\Favorite.cs",
+              "RelativeDocumentMoniker": "eUseControl.Domain\\Entities\\User\\Favorite.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\Favorite.cs",
+              "RelativeToolTip": "eUseControl.Domain\\Entities\\User\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:30:45.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Cars\\Details.cshtml",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Cars\\Details.cshtml",
@@ -491,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "FavoritPage.cshtml",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Favorites\\FavoritPage.cshtml",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Favorites\\FavoritPage.cshtml",
@@ -504,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "eCars.cshtml",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Cars\\eCars.cshtml",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Cars\\eCars.cshtml",
@@ -517,20 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T14:54:55.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "AnunceModel.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Models\\AnunceModel.cs",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Models\\AnunceModel.cs",
@@ -543,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Controllers\\HomeController.cs",
@@ -556,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "UserLogPage.cshtml",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\LogPage\\UserLogPage.cshtml",
@@ -569,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Favorite_ad.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Models\\Favorite_ad.cs",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Models\\Favorite_ad.cs",
@@ -582,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "PostTable.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\PostTable.cs",
               "RelativeDocumentMoniker": "eUseControl.Domain\\Entities\\User\\PostTable.cs",
@@ -595,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "202505212322186_InitialCreate12.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Migrations\\202505212322186_InitialCreate12.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Migrations\\202505212322186_InitialCreate12.cs",
@@ -608,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "202505212320214_InitialCreate11.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Migrations\\202505212320214_InitialCreate11.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Migrations\\202505212320214_InitialCreate11.cs",
@@ -621,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "carModell.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Models\\carModell.cs",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Models\\carModell.cs",
@@ -634,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "202505212239188_InitialCreate10.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Migrations\\202505212239188_InitialCreate10.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Migrations\\202505212239188_InitialCreate10.cs",
@@ -647,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "UserContext.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\DBModel\\Seed\\UserContext.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\DBModel\\Seed\\UserContext.cs",
@@ -660,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "ULoginData.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\ULoginData.cs",
               "RelativeDocumentMoniker": "eUseControl.Domain\\Entities\\User\\ULoginData.cs",
@@ -673,7 +712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "UDBTable.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\UDBTable.cs",
               "RelativeDocumentMoniker": "eUseControl.Domain\\Entities\\User\\UDBTable.cs",
@@ -686,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "LoginResult.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\LoginResult.cs",
               "RelativeDocumentMoniker": "eUseControl.Domain\\Entities\\User\\LoginResult.cs",
@@ -699,20 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "UserPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Cont\\UserPage.cshtml",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Cont\\UserPage.cshtml",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Cont\\UserPage.cshtml",
-              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Cont\\UserPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:11:07.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "RegisterPage.cshtml",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\LogPage\\RegisterPage.cshtml",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\LogPage\\RegisterPage.cshtml",
@@ -725,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "AdminAPi.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Core\\AdminAPi.cs",
@@ -738,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "my_styles.css",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Content\\css\\my_styles.css",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\css\\my_styles.css",
@@ -751,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "202505180329013_InitialCreate9.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Migrations\\202505180329013_InitialCreate9.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Migrations\\202505180329013_InitialCreate9.cs",
@@ -764,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Content\\css\\style.css",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\css\\style.css",
@@ -777,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "202505161456185_InitialCreate8.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Migrations\\202505161456185_InitialCreate8.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Migrations\\202505161456185_InitialCreate8.cs",
@@ -790,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "202505161410468_InitialCreate7.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Migrations\\202505161410468_InitialCreate7.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Migrations\\202505161410468_InitialCreate7.cs",
@@ -803,7 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "202505161356361_InitialCreate6.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Migrations\\202505161356361_InitialCreate6.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Migrations\\202505161356361_InitialCreate6.cs",
@@ -816,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "UserSession.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.Domain\\Entities\\User\\UserSession.cs",
               "RelativeDocumentMoniker": "eUseControl.Domain\\Entities\\User\\UserSession.cs",
@@ -829,7 +855,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "202505161153550_InitialCreate5.cs",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl.BussinesLogic\\Migrations\\202505161153550_InitialCreate5.cs",
               "RelativeDocumentMoniker": "eUseControl.BussinesLogic\\Migrations\\202505161153550_InitialCreate5.cs",
@@ -842,20 +868,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "AdminPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Cont\\AdminPage.cshtml",
-              "RelativeDocumentMoniker": "lab_1_templates_sandu\\Views\\Cont\\AdminPage.cshtml",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Views\\Cont\\AdminPage.cshtml",
-              "RelativeToolTip": "lab_1_templates_sandu\\Views\\Cont\\AdminPage.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:44:59.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "Site.css",
               "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\lab_1_templates_sandu\\Content\\Site.css",
               "RelativeDocumentMoniker": "lab_1_templates_sandu\\Content\\Site.css",
@@ -864,19 +877,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-07T05:05:18.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "SessionValidation.cs",
-              "DocumentMoniker": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl,Helpers\\Filters\\SessionValidation.cs",
-              "RelativeDocumentMoniker": "eUseControl,Helpers\\Filters\\SessionValidation.cs",
-              "ToolTip": "C:\\Users\\vboxuser\\Documents\\Tweb_labs\\Proiect_MRSTWeb-master\\Proiect_MRSTWeb-master\\RentaCarWEB\\Solution1\\eUseControl,Helpers\\Filters\\SessionValidation.cs",
-              "RelativeToolTip": "eUseControl,Helpers\\Filters\\SessionValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T04:33:34.283Z",
               "EditorCaption": ""
             },
             {

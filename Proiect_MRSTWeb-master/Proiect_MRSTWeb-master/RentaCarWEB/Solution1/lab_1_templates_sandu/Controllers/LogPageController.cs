@@ -8,11 +8,12 @@ using System;
 using System.Web.Mvc;
 using eUseControl.BussinesLogic.DBModel.Seed;
 using System.Linq;
-using eUseControl.Helpers.Filters;
+
 
 
 namespace eUseControl.Web.Controllers
 {
+   
     public class LogPageController : Controller
     {
 
@@ -37,6 +38,7 @@ namespace eUseControl.Web.Controllers
 
         
         [HttpPost]
+        
         public ActionResult Login(RegisterViewModel model)
         {
             if (ModelState.IsValid)
@@ -88,30 +90,29 @@ namespace eUseControl.Web.Controllers
         }
 
         [HttpGet]
+       
 
         public ActionResult Login2()
         {
-            var token = Request.Cookies["AuthToken"]?.Value;
-
-            if (!string.IsNullOrEmpty(token))
-            {
-                using (var db = new UserContext())
-                {
-                    var session = db.UserSessions.FirstOrDefault(s => s.SessionToken == token);
-                    if (session != null && session.ExpiresAt > DateTime.Now)
-                    {
-                        // Dacă sesiunea este validă, redirecționează utilizatorul
-                        var role = Session["Role"] as string;
-                        if (role == "admin")
-                            return RedirectToAction("AdminPage", "Cont");
-                        else
-                            return RedirectToAction("UserPage", "Cont");
-                    }
-                }
+          
+               
+                   
+                      
+            var role = Session["Role"] as string;
+            
+            if (role == "admin") {
+                return RedirectToAction("AdminPage", "Cont");
             }
+            else { 
+                return RedirectToAction("UserPage", "Cont");
+                    }
+        
+                
+            
 
-            return View("UserLogPage"); // Dacă nu există sesiune validă, rămâi pe login
+            
         }
+
 
 
 
@@ -138,7 +139,7 @@ namespace eUseControl.Web.Controllers
                     }
                 }
 
-                // Șterge cookie-ul
+                
                 var cookie = new HttpCookie("AuthToken")
                 {
                     Expires = DateTime.Now.AddDays(-1)
