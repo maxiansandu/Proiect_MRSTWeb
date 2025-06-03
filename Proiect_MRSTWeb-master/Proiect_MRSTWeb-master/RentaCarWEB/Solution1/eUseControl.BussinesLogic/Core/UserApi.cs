@@ -1,8 +1,11 @@
 ﻿using eUseControl.BussinesLogic.DBModel.Seed;
 using eUseControl.BussinesLogic.Interfaces;
 using eUseControl.Domain.Entities.User;
+using System;
 using System.Collections.Generic;
+using System.Drawing.Text;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
@@ -50,16 +53,61 @@ namespace eUseControl.BussinesLogic.Core
         
         }
 
-      
+        public static string HashPassword(string password)
+        {
+       
+            byte[] salt = new byte[16];
+            using (var rng = new RNGCryptoServiceProvider())
+            {
+                rng.GetBytes(salt);
+            }
+
+            
+            var pbkdf2 = new Rfc2898DeriveBytes(password, salt, 10000);
+            byte[] hash = pbkdf2.GetBytes(20); 
+
+            byte[] hashBytes = new byte[36];
+            Array.Copy(salt, 0, hashBytes, 0, 16);
+            Array.Copy(hash, 0, hashBytes, 16, 20);
+
+          
+            return Convert.ToBase64String(hashBytes);
+        }
+
+        public static bool VerifyPassword(string password, string storedHash)
+        {
+            
+            byte[] hashBytes = Convert.FromBase64String(storedHash);
+
+          
+            byte[] salt = new byte[16];
+            Array.Copy(hashBytes, 0, salt, 0, 16);
+
+        
+            var pbkdf2 = new Rfc2898DeriveBytes(password, salt, 10000);
+            byte[] hash = pbkdf2.GetBytes(20);
+
+            for (int i = 0; i < 20; i++)
+            {
+                if (hashBytes[i + 16] != hash[i])
+                    return false;
+            }
+
+            return true;
+        }
+
+
+
         public LoginResult LoginUser_action(ULoginData data)
         {
+           var password = HashPassword(data.Password);
             using (var db = new UserContext())
             {
                 var user = db.Users.FirstOrDefault(u =>
                     (u.username == data.Username || u.email == data.Username)
-                    && u.password == data.Password);
+                   );
 
-                if (user == null)
+                if (user == null || !VerifyPassword(data.Password, user.password))
                 {
                     return new LoginResult
                     {
@@ -94,10 +142,12 @@ namespace eUseControl.BussinesLogic.Core
                     };
                 }
 
+                var password = HashPassword(data.Password);
+
                 var newUser = new UDBTable
                 {
                     username = data.Username,
-                    password = data.Password,
+                    password = password,
                     email = data.Email // trebuie să adaugi și Email în ULoginData
                 }; 
 

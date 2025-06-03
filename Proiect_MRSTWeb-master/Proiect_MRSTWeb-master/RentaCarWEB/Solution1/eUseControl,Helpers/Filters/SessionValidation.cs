@@ -48,7 +48,7 @@ namespace eUseControl.Helpers.Filters
                     httpSession["Username"] = user.username;
                     httpSession["Email"] = user.email;
 
-                    if (user.password == "admin")
+                    if (user.password == "RZZQiXYUkFH4o1pjpozIOvxmMQUybk3fmqnvlnlDxQzzfRFr")
                     {
                         httpSession["Role"] = "admin";
 
